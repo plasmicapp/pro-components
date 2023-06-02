@@ -8,6 +8,5 @@ export * from '@plasmicapp/pro-provider';
 export * from '@plasmicapp/pro-skeleton';
 export * from '@plasmicapp/pro-table';
 export * from '@plasmicapp/pro-utils';
-
 // @ts-ignore
 export * from './version';

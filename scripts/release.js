@@ -167,9 +167,8 @@ async function release() {
       if (args.tag) {
         cliArgs = ['publish', '--tag', args.tag];
       }
-      await execa('npm', ['publish','--public'], {
+      await execa('npm', ['publish', '--access=public'], {
         cwd: pkgPath,
-        reject: false,
       });
     }
   }

@@ -1,4 +1,3 @@
-import { useRefFunction } from '@plasmicapp/pro-utils';
 import type { DragEndEvent } from '@dnd-kit/core';
 import {
   closestCenter,
@@ -15,6 +14,7 @@ import {
   verticalListSortingStrategy,
 } from '@dnd-kit/sortable';
 import { CSS } from '@dnd-kit/utilities';
+import { useRefFunction } from '@plasmicapp/pro-utils';
 import type { TableComponents } from 'rc-table/lib/interface';
 import React, { createContext, useContext } from 'react';
 
