@@ -169,6 +169,7 @@ async function release() {
       }
       await execa('npm', ['publish','--public'], {
         cwd: pkgPath,
+        reject: false,
       });
     }
   }
