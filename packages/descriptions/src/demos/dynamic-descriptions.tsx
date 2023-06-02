@@ -9,7 +9,7 @@
   ProFormSwitch,
   ProFormText,
   ProFormTextArea,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { useState } from 'react';
 
 const valueTypeArray = [

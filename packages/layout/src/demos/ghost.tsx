@@ -1,4 +1,4 @@
-import { PageContainer, ProCard, ProLayout } from '@ant-design/pro-components';
+import { PageContainer, ProCard, ProLayout } from '@plasmicapp/pro-components';
 import { Descriptions } from 'antd';
 import defaultProps from './_defaultProps';
 

@@ -1,7 +1,7 @@
 import { ReloadOutlined, SettingOutlined } from '@ant-design/icons';
-import type { IntlType } from '@ant-design/pro-provider';
-import { useIntl } from '@ant-design/pro-provider';
-import { isDeepEqualReact, omitUndefined } from '@ant-design/pro-utils';
+import type { IntlType } from '@plasmicapp/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { isDeepEqualReact, omitUndefined } from '@plasmicapp/pro-utils';
 import type { TableColumnType } from 'antd';
 import { Tooltip } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';

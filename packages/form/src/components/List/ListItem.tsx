@@ -1,5 +1,5 @@
 ﻿import { CopyOutlined, DeleteOutlined } from '@ant-design/icons';
-import { ProProvider } from '@ant-design/pro-provider';
+import { ProProvider } from '@plasmicapp/pro-provider';
 import type { ButtonProps, FormInstance } from 'antd';
 import { Spin, Tooltip } from 'antd';
 import type {

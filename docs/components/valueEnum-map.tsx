@@ -1,4 +1,4 @@
-import { ProTable } from '@ant-design/pro-components';
+import { ProTable } from '@plasmicapp/pro-components';
 
 export default function () {
   return (

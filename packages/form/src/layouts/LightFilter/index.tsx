@@ -1,6 +1,6 @@
 import { FilterOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel, FilterDropdown } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { FieldLabel, FilterDropdown } from '@plasmicapp/pro-utils';
 import type { FormProps } from 'antd';
 import { ConfigProvider } from 'antd';
 

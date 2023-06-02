@@ -1,5 +1,5 @@
-import type { ProFormColumnsType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProProvider } from '@ant-design/pro-components';
+import type { ProFormColumnsType } from '@plasmicapp/pro-components';
+import { BetaSchemaForm, ProProvider } from '@plasmicapp/pro-components';
 import type { InputRef } from 'antd';
 import { Input, Space, Tag } from 'antd';
 import React, { useContext, useRef, useState } from 'react';

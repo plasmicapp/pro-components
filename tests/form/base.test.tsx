@@ -1,5 +1,5 @@
 import { FontSizeOutlined } from '@ant-design/icons';
-import type { ProFormInstance } from '@ant-design/pro-form';
+import type { ProFormInstance } from '@plasmicapp/pro-form';
 import ProForm, {
   ProFormCaptcha,
   ProFormColorPicker,
@@ -13,7 +13,7 @@ import ProForm, {
   ProFormText,
   ProFormTimePicker,
   ProFormTreeSelect,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { Button, ConfigProvider, Input } from 'antd';

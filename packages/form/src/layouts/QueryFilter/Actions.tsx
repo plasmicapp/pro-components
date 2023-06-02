@@ -1,7 +1,7 @@
 import { DownOutlined } from '@ant-design/icons';
-import type { IntlType } from '@ant-design/pro-provider';
-import { ProProvider, useIntl } from '@ant-design/pro-provider';
-import { omitBoolean } from '@ant-design/pro-utils';
+import type { IntlType } from '@plasmicapp/pro-provider';
+import { ProProvider, useIntl } from '@plasmicapp/pro-provider';
+import { omitBoolean } from '@plasmicapp/pro-utils';
 import { ConfigProvider, Space } from 'antd';
 
 import React, { useContext } from 'react';

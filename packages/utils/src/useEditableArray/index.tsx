@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { LoadingOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import type { FormInstance, FormProps } from 'antd';
 import { Form, message, Popconfirm } from 'antd';
 import type { NamePath } from 'antd/lib/form/interface';

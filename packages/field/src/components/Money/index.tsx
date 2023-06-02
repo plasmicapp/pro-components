@@ -1,4 +1,4 @@
-import { intlMap as allIntlMap, useIntl } from '@ant-design/pro-provider';
+import { intlMap as allIntlMap, useIntl } from '@plasmicapp/pro-provider';
 import type { InputNumberProps } from 'antd';
 import { InputNumber, Popover } from 'antd';
 import omit from 'omit.js';
@@ -11,7 +11,7 @@ import 'antd/lib/input-number/style';
 import 'antd/lib/popover/style';
 //----------------------
 
-import { openVisibleCompatible } from '@ant-design/pro-utils';
+import { openVisibleCompatible } from '@plasmicapp/pro-utils';
 
 export type FieldMoneyProps = {
   text: number;

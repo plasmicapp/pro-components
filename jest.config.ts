@@ -10,7 +10,7 @@ const moduleNameMapper = {
 };
 
 pkgList.forEach((shortName: string) => {
-  const name = `@ant-design/pro-${shortName}`;
+  const name = `@plasmicapp/pro-${shortName}`;
   moduleNameMapper[name] = join(__dirname, `./packages/${shortName}/src`);
 });
 

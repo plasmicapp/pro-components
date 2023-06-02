@@ -2,7 +2,7 @@ import {
   ProForm,
   ProFormDependency,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { act, fireEvent, render } from '@testing-library/react';
 import { waitForWaitTime } from '../util';
 

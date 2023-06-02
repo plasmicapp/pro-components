@@ -8,7 +8,7 @@ import {
   ProFormSlider,
   ProFormText,
   ProFormTimePicker,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import {
   act,
   fireEvent,

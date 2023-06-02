@@ -1,6 +1,6 @@
-import type { ProCardProps } from '@ant-design/pro-card';
-import { ProProvider } from '@ant-design/pro-provider';
-import type { ActionType } from '@ant-design/pro-table';
+import type { ProCardProps } from '@plasmicapp/pro-card';
+import { ProProvider } from '@plasmicapp/pro-provider';
+import type { ActionType } from '@plasmicapp/pro-table';
 import type {
   ListProps,
   TableColumnType,
@@ -20,7 +20,7 @@ import type { GetComponentProps } from './index';
 import type { ItemProps } from './Item';
 import ProListItem from './Item';
 
-import { compareVersions } from '@ant-design/pro-utils';
+import { compareVersions } from '@plasmicapp/pro-utils';
 import type { PaginationConfig } from 'antd/lib/pagination';
 import type { AnyObject } from 'antd/lib/table/Table';
 

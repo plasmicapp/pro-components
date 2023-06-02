@@ -1,5 +1,5 @@
-﻿import type { ProFormColumnsType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProForm } from '@ant-design/pro-components';
+﻿import type { ProFormColumnsType } from '@plasmicapp/pro-components';
+import { BetaSchemaForm, ProForm } from '@plasmicapp/pro-components';
 
 const valueEnum = {
   money: { text: '按金额' },

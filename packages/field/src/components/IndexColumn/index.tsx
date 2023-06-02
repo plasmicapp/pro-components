@@ -1,4 +1,4 @@
-import { useStyle } from '@ant-design/pro-utils';
+import { useStyle } from '@plasmicapp/pro-utils';
 import { ConfigProvider } from 'antd';
 import classnames from 'classnames';
 import React, { useContext } from 'react';

@@ -55,7 +55,7 @@ Any type of contribution is welcome, here are some examples of how you may contr
 
 | Components | Downloads | Downloads a version |
 | --- | --- | --- |
-| pro-components | [![components](https://img.shields.io/npm/dw/@ant-design/pro-components.svg)](https://www.npmjs.com/package/@ant-design/pro-components) | [![npm package](https://img.shields.io/npm/v/@ant-design/pro-components.svg?style=flat-square?style=flat-square)](https://www.npmjs.com/package/@ant-design/pro-components) |
+| pro-components | [![components](https://img.shields.io/npm/dw/@plasmicapp/pro-components.svg)](https://www.npmjs.com/package/@plasmicapp/pro-components) | [![npm package](https://img.shields.io/npm/v/@plasmicapp/pro-components.svg?style=flat-square?style=flat-square)](https://www.npmjs.com/package/@plasmicapp/pro-components) |
 
 ## LICENSE
 

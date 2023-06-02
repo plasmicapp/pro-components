@@ -1,11 +1,11 @@
-﻿import type { ProFieldEmptyText } from '@ant-design/pro-field';
+﻿import type { ProFieldEmptyText } from '@plasmicapp/pro-field';
 import type {
   ProFieldValueType,
   ProSchemaComponentTypes,
   ProTableEditableFnType,
   UseEditableUtilType,
-} from '@ant-design/pro-utils';
-import { genCopyable, isNil, LabelIconTip } from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
+import { genCopyable, isNil, LabelIconTip } from '@plasmicapp/pro-utils';
 import get from 'rc-util/lib/utils/get';
 import React from 'react';
 import { isMergeCell } from '.';

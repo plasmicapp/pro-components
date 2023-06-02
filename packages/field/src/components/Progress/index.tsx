@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import { InputNumber, Progress } from 'antd';
 import toNumber from 'lodash.tonumber';
 import React, { useMemo } from 'react';

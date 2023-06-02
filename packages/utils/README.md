@@ -1,19 +1,19 @@
-# @ant-design/pro-utils
+# @plasmicapp/pro-utils
 
-> @ant-design/pro-utils.
+> @plasmicapp/pro-utils.
 
-See our website [@ant-design/pro-utils](https://procomponent.ant.design/) for more information.
+See our website [@plasmicapp/pro-utils](https://procomponent.ant.design/) for more information.
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-utils
+$ npm install --save  @plasmicapp/pro-utils
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-utils
+$ yarn add @plasmicapp/pro-utils
 ```

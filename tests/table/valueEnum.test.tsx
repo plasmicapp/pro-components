@@ -1,5 +1,5 @@
-import ProProvider from '@ant-design/pro-provider';
-import ProTable from '@ant-design/pro-table';
+import ProProvider from '@plasmicapp/pro-provider';
+import ProTable from '@plasmicapp/pro-table';
 import { act, render, waitFor } from '@testing-library/react';
 import { Input } from 'antd';
 import { useContext } from 'react';

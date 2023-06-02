@@ -1,4 +1,4 @@
-import ProForm, { ProFormMoney } from '@ant-design/pro-form';
+import ProForm, { ProFormMoney } from '@plasmicapp/pro-form';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import { ConfigProvider } from 'antd';
 import enGBIntl from 'antd/lib/locale/en_GB';

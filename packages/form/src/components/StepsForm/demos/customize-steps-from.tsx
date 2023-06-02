@@ -8,7 +8,7 @@ import {
   ProFormText,
   ProFormTextArea,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Button, message } from 'antd';
 
 const waitTime = (time: number = 100) => {

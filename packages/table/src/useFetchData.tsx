@@ -5,7 +5,7 @@ import {
   useMountMergeState,
   usePrevious,
   useRefFunction,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import { useEffect, useRef } from 'react';
 import { unstable_batchedUpdates } from 'react-dom';
 import type {

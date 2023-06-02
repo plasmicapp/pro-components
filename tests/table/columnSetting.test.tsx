@@ -1,4 +1,4 @@
-import ProTable from '@ant-design/pro-table';
+import ProTable from '@plasmicapp/pro-table';
 import { act, createEvent, fireEvent, render } from '@testing-library/react';
 import { waitForWaitTime } from '../util';
 import { columns } from './demo';

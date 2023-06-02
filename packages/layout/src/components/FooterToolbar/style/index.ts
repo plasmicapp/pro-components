@@ -1,5 +1,5 @@
-﻿import type { GenerateStyle, ProAliasToken } from '@ant-design/pro-provider';
-import { setAlpha, useStyle as useAntdStyle } from '@ant-design/pro-provider';
+﻿import type { GenerateStyle, ProAliasToken } from '@plasmicapp/pro-provider';
+import { setAlpha, useStyle as useAntdStyle } from '@plasmicapp/pro-provider';
 
 export interface FooterToolBarToken extends ProAliasToken {
   componentCls: string;

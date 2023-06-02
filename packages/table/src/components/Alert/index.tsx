@@ -1,5 +1,5 @@
-import type { IntlType } from '@ant-design/pro-provider';
-import { useIntl } from '@ant-design/pro-provider';
+import type { IntlType } from '@plasmicapp/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import { ConfigProvider, Space } from 'antd';
 import React, { useContext } from 'react';
 import { useStyle } from './style';

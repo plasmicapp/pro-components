@@ -1,5 +1,5 @@
 ﻿import { CloseOutlined, ProfileOutlined } from '@ant-design/icons';
-import { isNeedOpenHash, ProProvider } from '@ant-design/pro-provider';
+import { isNeedOpenHash, ProProvider } from '@plasmicapp/pro-provider';
 import { Card, ConfigProvider, Menu } from 'antd';
 import useMergedState from 'rc-util/es/hooks/useMergedState';
 import React, { useContext, useMemo, useState } from 'react';

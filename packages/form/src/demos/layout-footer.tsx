@@ -11,7 +11,7 @@ import {
   ProFormTextArea,
   ProFormUploadButton,
   ProLayout,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Card } from 'antd';
 
 export default () => {

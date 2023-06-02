@@ -3,7 +3,7 @@ import {
   EllipsisOutlined,
   SettingOutlined,
 } from '@ant-design/icons';
-import { ProCard } from '@ant-design/pro-components';
+import { ProCard } from '@plasmicapp/pro-components';
 import { Space } from 'antd';
 
 export default () => {

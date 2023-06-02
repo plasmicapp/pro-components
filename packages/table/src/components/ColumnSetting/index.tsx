@@ -4,8 +4,8 @@ import {
   VerticalAlignMiddleOutlined,
   VerticalAlignTopOutlined,
 } from '@ant-design/icons';
-import { ProProvider, useIntl } from '@ant-design/pro-provider';
-import { runFunction, useRefFunction } from '@ant-design/pro-utils';
+import { ProProvider, useIntl } from '@plasmicapp/pro-provider';
+import { runFunction, useRefFunction } from '@plasmicapp/pro-utils';
 import type { TableColumnType } from 'antd';
 import { Checkbox, ConfigProvider, Popover, Space, Tooltip, Tree } from 'antd';
 import type { CheckboxChangeEvent } from 'antd/lib/checkbox';

@@ -3,7 +3,7 @@ import {
   DefaultFooter,
   PageContainer,
   ProLayout,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Switch } from 'antd';
 import { useState } from 'react';
 import defaultProps from './_defaultProps';

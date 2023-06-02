@@ -1,5 +1,5 @@
-import type { GenerateStyle } from '@ant-design/pro-provider';
-import { ProConfigProvider, ProProvider } from '@ant-design/pro-provider';
+import type { GenerateStyle } from '@plasmicapp/pro-provider';
+import { ProConfigProvider, ProProvider } from '@plasmicapp/pro-provider';
 import type {
   AffixProps,
   BreadcrumbProps,

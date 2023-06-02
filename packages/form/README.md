@@ -1,15 +1,15 @@
-# @ant-design/pro-form
+# @plasmicapp/pro-form
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-form
+$ npm install --save  @plasmicapp/pro-form
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-form
+$ yarn add @plasmicapp/pro-form
 ```

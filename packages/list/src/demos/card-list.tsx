@@ -2,7 +2,7 @@ import {
   ProFormRadio,
   ProFormSwitch,
   ProList,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Progress, Tag } from 'antd';
 import { useState } from 'react';
 

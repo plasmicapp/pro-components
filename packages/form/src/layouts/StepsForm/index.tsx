@@ -1,5 +1,5 @@
-import { ProConfigProvider, useIntl } from '@ant-design/pro-provider';
-import { compareVersions, merge, useRefFunction } from '@ant-design/pro-utils';
+import { ProConfigProvider, useIntl } from '@plasmicapp/pro-provider';
+import { compareVersions, merge, useRefFunction } from '@plasmicapp/pro-utils';
 import type { FormInstance, StepsProps } from 'antd';
 import {
   Button,

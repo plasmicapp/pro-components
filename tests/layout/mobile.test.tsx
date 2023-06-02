@@ -1,4 +1,4 @@
-﻿import { ProLayout } from '@ant-design/pro-components';
+﻿import { ProLayout } from '@plasmicapp/pro-components';
 import { act, render, waitFor } from '@testing-library/react';
 import defaultProps from './defaultProps';
 

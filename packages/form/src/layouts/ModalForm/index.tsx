@@ -1,4 +1,4 @@
-﻿import { openVisibleCompatible } from '@ant-design/pro-utils';
+﻿import { openVisibleCompatible } from '@plasmicapp/pro-utils';
 import type { FormProps, ModalProps } from 'antd';
 import { ConfigProvider, Modal } from 'antd';
 import merge from 'lodash.merge';

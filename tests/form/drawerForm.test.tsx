@@ -1,4 +1,4 @@
-﻿import { DrawerForm, ModalForm, ProFormText } from '@ant-design/pro-form';
+﻿import { DrawerForm, ModalForm, ProFormText } from '@plasmicapp/pro-form';
 import { act, fireEvent, render } from '@testing-library/react';
 import { Button, Form } from 'antd';
 import React from 'react';

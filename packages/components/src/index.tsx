@@ -1,12 +1,13 @@
-export * from '@ant-design/pro-card';
-export * from '@ant-design/pro-descriptions';
-export * from '@ant-design/pro-field';
-export * from '@ant-design/pro-form';
-export * from '@ant-design/pro-layout';
-export * from '@ant-design/pro-list';
-export * from '@ant-design/pro-provider';
-export * from '@ant-design/pro-skeleton';
-export * from '@ant-design/pro-table';
-export * from '@ant-design/pro-utils';
+export * from '@plasmicapp/pro-card';
+export * from '@plasmicapp/pro-descriptions';
+export * from '@plasmicapp/pro-field';
+export * from '@plasmicapp/pro-form';
+export * from '@plasmicapp/pro-layout';
+export * from '@plasmicapp/pro-list';
+export * from '@plasmicapp/pro-provider';
+export * from '@plasmicapp/pro-skeleton';
+export * from '@plasmicapp/pro-table';
+export * from '@plasmicapp/pro-utils';
+
 // @ts-ignore
 export * from './version';

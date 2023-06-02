@@ -17,7 +17,7 @@ import {
   ProFormTimePicker,
   ProFormUploadButton,
   ProFormUploadDragger,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 const options = [
   {

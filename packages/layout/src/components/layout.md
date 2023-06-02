@@ -127,7 +127,7 @@ const colorList = [
 RouteContext 可以提供 Layout 的内置的数据。例如 isMobile 和 collapsed，你可以消费这些数据来自定义一些行为。
 
 ```tsx | pure
-import { RouteContext, RouteContextType } from '@ant-design/pro-components';
+import { RouteContext, RouteContextType } from '@plasmicapp/pro-components';
 
 const Page = () => (
   <RouteContext.Consumer>
@@ -151,7 +151,7 @@ GridContent 封装了 [等宽](https://preview.pro.ant.design/dashboard/analysis
 根据 router 信息来生成 menuData 和 breadcrumb。
 
 ```js | pure
-import { getMenuData } from '@ant-design/pro-components';
+import { getMenuData } from '@plasmicapp/pro-components';
 
 const { breadcrumb, menuData } = getMenuData(
   routes,
@@ -173,7 +173,7 @@ const { breadcrumb, menuData } = getMenuData(
 getPageTitle 封装了根据 menuData 上生成的 title 的逻辑。
 
 ```js | pure
-import { getPageTitle } from '@ant-design/pro-components';
+import { getPageTitle } from '@plasmicapp/pro-components';
 
 const title = getPageTitle({
   pathname,
@@ -195,7 +195,7 @@ const title = getPageTitle({
 ### Settings
 
 ```ts | pure
-// 可以通过 import { Settings } from '@ant-design/pro-layout/defaultSettings'
+// 可以通过 import { Settings } from '@plasmicapp/pro-layout/defaultSettings'
 // 来获取这个类型
 export interface Settings {
   /** Primary color of ant design */
@@ -222,7 +222,7 @@ export interface Settings {
 ### MenuDataItem
 
 ```ts | pure
-// 可以通过 import { MenuDataItem } from '@ant-design/pro-components'
+// 可以通过 import { MenuDataItem } from '@plasmicapp/pro-components'
 // 来获取这个类型
 
 export interface MenuDataItem {
@@ -242,7 +242,7 @@ export interface MenuDataItem {
 ### Route
 
 ```ts | pure
-// 可以通过 import { RouterTypes } from '@ant-design/pro-layout/lib/typings';
+// 可以通过 import { RouterTypes } from '@plasmicapp/pro-layout/lib/typings';
 // 来获取这个类型
 export interface Route {
   path: string;
@@ -263,7 +263,7 @@ export interface Route {
 
 ```tsx | pure
 import { GithubOutlined } from '@ant-design/icons';
-import { DefaultFooter } from '@ant-design/pro-components';
+import { DefaultFooter } from '@plasmicapp/pro-components';
 
 <DefaultFooter
   copyright="@2019 蚂蚁金服体验技术部出品"
@@ -305,7 +305,7 @@ GridContent 是个简单的语法糖，封装了 ProLayout 的 `contentWidth` �
 RouteContext 提供一个可以根据 layout 的数据来进行一些操作, PageContainer 和 FooterToolbar 都是依赖 RouteContext 的数据来实现功能。
 
 ```tsx | pure
-import { RouteContext, RouteContextType } from '@ant-design/pro-components';
+import { RouteContext, RouteContextType } from '@plasmicapp/pro-components';
 
 const Page = () => (
   <RouteContext.Consumer>
@@ -460,7 +460,7 @@ ProLayout 会自动生成菜单，同时根据 pathname 进行自动选中。配
 为了提供更多的功能，我们扩展了 routers 配置，增加了几个配置方便自定义，数据结构定义如下:
 
 ```ts | pure
-// 可以通过 import { MenuDataItem } from '@ant-design/pro-components'
+// 可以通过 import { MenuDataItem } from '@plasmicapp/pro-components'
 // 来获取这个类型
 export interface MenuDataItem {
   children?: MenuDataItem[];

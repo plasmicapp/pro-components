@@ -179,7 +179,7 @@ const enLocale = {
 
 // 生成 intl 对象
 const enUSIntl = createIntl('en_US', enUS);
-import { ConfigProvider } from '@ant-design/pro-provide';
+import { ConfigProvider } from '@plasmicapp/pro-provide';
 
 // 使用
 <ConfigProvider

@@ -2,7 +2,7 @@
   EditableFormInstance,
   ProColumns,
   ProFormInstance,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import {
   EditableProTable,
   ProCard,
@@ -10,7 +10,7 @@ import {
   ProFormDependency,
   ProFormField,
   ProFormRadio,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Button } from 'antd';
 import React, { useRef, useState } from 'react';
 

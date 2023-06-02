@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import type { GenerateStyle } from '@ant-design/pro-provider';
-import { isBrowser } from '@ant-design/pro-utils';
+import type { GenerateStyle } from '@plasmicapp/pro-provider';
+import { isBrowser } from '@plasmicapp/pro-utils';
 import { ConfigProvider } from 'antd';
 import classNames from 'classnames';
 import omit from 'omit.js';

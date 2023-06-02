@@ -1,6 +1,6 @@
 import { FullscreenExitOutlined, FullscreenOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
-import { isBrowser } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { isBrowser } from '@plasmicapp/pro-utils';
 import { Tooltip } from 'antd';
 import React, { useEffect, useState } from 'react';
 

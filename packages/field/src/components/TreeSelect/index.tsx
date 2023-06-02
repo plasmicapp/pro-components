@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { FieldLabel } from '@plasmicapp/pro-utils';
 import type { RadioGroupProps, TreeSelectProps } from 'antd';
 import { ConfigProvider, Spin, TreeSelect } from 'antd';
 import classNames from 'classnames';

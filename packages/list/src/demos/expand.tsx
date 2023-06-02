@@ -1,4 +1,4 @@
-import { ProList } from '@ant-design/pro-components';
+import { ProList } from '@plasmicapp/pro-components';
 import { Button, Progress, Space, Tag } from 'antd';
 import type { ReactText } from 'react';
 import { useState } from 'react';

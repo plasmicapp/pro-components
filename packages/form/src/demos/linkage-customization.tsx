@@ -9,7 +9,7 @@ import {
   ProFormText,
   ProFormTextArea,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Button, message } from 'antd';
 import { useState } from 'react';
 

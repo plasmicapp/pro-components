@@ -1,19 +1,19 @@
-# @ant-design/pro-provider
+# @plasmicapp/pro-provider
 
-> @ant-design/pro-provider.
+> @plasmicapp/pro-provider.
 
-See our website [@ant-design/pro-provider](https://procomponent.ant.design/) for more information.
+See our website [@plasmicapp/pro-provider](https://procomponent.ant.design/) for more information.
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-provider
+$ npm install --save  @plasmicapp/pro-provider
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-provider
+$ yarn add @plasmicapp/pro-provider
 ```

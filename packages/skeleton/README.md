@@ -1,19 +1,19 @@
-# @ant-design/pro-skeleton
+# @plasmicapp/pro-skeleton
 
-> @ant-design/pro-skeleton.
+> @plasmicapp/pro-skeleton.
 
-See our website [@ant-design/pro-skeleton](https://procomponent.ant.design/) for more information.
+See our website [@plasmicapp/pro-skeleton](https://procomponent.ant.design/) for more information.
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-skeleton
+$ npm install --save  @plasmicapp/pro-skeleton
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-skeleton
+$ yarn add @plasmicapp/pro-skeleton
 ```

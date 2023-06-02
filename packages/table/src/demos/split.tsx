@@ -1,5 +1,5 @@
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProCard, ProTable } from '@ant-design/pro-components';
+import type { ProColumns } from '@plasmicapp/pro-components';
+import { ProCard, ProTable } from '@plasmicapp/pro-components';
 import type { BadgeProps } from 'antd';
 import { Badge, Button } from 'antd';
 import React, { useEffect, useState } from 'react';

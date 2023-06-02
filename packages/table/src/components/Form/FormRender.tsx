@@ -1,7 +1,7 @@
-﻿import type { BaseQueryFilterProps, ProFormProps } from '@ant-design/pro-form';
-import { BetaSchemaForm } from '@ant-design/pro-form';
-import { ProProvider } from '@ant-design/pro-provider';
-import type { ProSchemaComponentTypes } from '@ant-design/pro-utils';
+﻿import type { BaseQueryFilterProps, ProFormProps } from '@plasmicapp/pro-form';
+import { BetaSchemaForm } from '@plasmicapp/pro-form';
+import { ProProvider } from '@plasmicapp/pro-provider';
+import type { ProSchemaComponentTypes } from '@plasmicapp/pro-utils';
 import type { FormInstance, FormItemProps } from 'antd';
 import { ConfigProvider, Table } from 'antd';
 import classNames from 'classnames';

@@ -3,7 +3,7 @@
   ProFormRate,
   ProFormText,
   ProFormTextArea,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import { fireEvent, render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { Input } from 'antd';

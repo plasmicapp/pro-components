@@ -1,5 +1,5 @@
-﻿import { ProProvider } from '@ant-design/pro-provider';
-import { useDebounceFn } from '@ant-design/pro-utils';
+﻿import { ProProvider } from '@plasmicapp/pro-provider';
+import { useDebounceFn } from '@plasmicapp/pro-utils';
 import classNames from 'classnames';
 import React, { useContext, useEffect, useMemo, useRef } from 'react';
 import { AsyncContentPanel } from './AsyncContentPanel';

@@ -3,7 +3,7 @@ import type {
   ProFieldValueType,
   ProSchema,
   SearchConvertKeyFn,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { ColProps, FormItemProps, RowProps, SpaceProps } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type React from 'react';

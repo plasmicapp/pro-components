@@ -1,5 +1,5 @@
-import type { ColumnsState, ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ColumnsState, ProColumns } from '@plasmicapp/pro-components';
+import { ProTable } from '@plasmicapp/pro-components';
 import { useState } from 'react';
 
 const valueEnum = {

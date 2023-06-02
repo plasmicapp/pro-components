@@ -1,4 +1,4 @@
-import { isBrowser } from '@ant-design/pro-utils';
+import { isBrowser } from '@plasmicapp/pro-utils';
 import enUSLocal from './en-US';
 import itITLocal from './it-IT';
 import koKRLocal from './ko-KR';

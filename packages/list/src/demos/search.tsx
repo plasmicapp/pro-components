@@ -1,4 +1,4 @@
-import { ProList } from '@ant-design/pro-components';
+import { ProList } from '@plasmicapp/pro-components';
 import { Button, Space, Tag } from 'antd';
 import request from 'umi-request';
 

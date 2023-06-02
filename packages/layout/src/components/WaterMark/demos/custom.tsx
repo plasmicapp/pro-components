@@ -8,7 +8,7 @@ import {
   ProFormSlider,
   ProFormText,
   WaterMark,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Divider } from 'antd';
 
 export default () => {

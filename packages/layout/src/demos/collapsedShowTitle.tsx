@@ -8,7 +8,7 @@
   SmileFilled,
   TabletFilled,
 } from '@ant-design/icons';
-import { PageContainer, ProCard, ProLayout } from '@ant-design/pro-components';
+import { PageContainer, ProCard, ProLayout } from '@plasmicapp/pro-components';
 import { Button, Input } from 'antd';
 import { useState } from 'react';
 

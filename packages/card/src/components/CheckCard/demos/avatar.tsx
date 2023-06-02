@@ -1,5 +1,5 @@
 import { UserOutlined } from '@ant-design/icons';
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@plasmicapp/pro-components';
 import { Avatar } from 'antd';
 
 export default () => (

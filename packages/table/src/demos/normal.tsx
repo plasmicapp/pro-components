@@ -1,6 +1,6 @@
 import { DownOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable, TableDropdown } from '@ant-design/pro-components';
+import type { ProColumns } from '@plasmicapp/pro-components';
+import { ProTable, TableDropdown } from '@plasmicapp/pro-components';
 import { Button } from 'antd';
 
 const valueEnum = {

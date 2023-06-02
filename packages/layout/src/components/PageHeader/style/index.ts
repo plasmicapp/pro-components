@@ -1,10 +1,10 @@
 import type { CSSObject } from '@ant-design/cssinjs';
-import type { GenerateStyle, ProAliasToken } from '@ant-design/pro-provider';
+import type { GenerateStyle, ProAliasToken } from '@plasmicapp/pro-provider';
 import {
   operationUnit,
   resetComponent,
   useStyle as useAntdStyle,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 export interface PageHeaderToken extends ProAliasToken {
   componentCls: string;
   pageHeaderPadding: number;

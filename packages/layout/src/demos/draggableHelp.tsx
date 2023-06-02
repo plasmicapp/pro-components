@@ -1,9 +1,9 @@
-﻿import type { ProHelpDataSourceChildren } from '@ant-design/pro-components';
+﻿import type { ProHelpDataSourceChildren } from '@plasmicapp/pro-components';
 import {
   ProHelp,
   ProHelpPanel,
   ProHelpSelect,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { App, Typography } from 'antd';
 import Draggable from 'react-draggable';
 

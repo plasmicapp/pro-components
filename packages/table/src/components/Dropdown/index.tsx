@@ -1,5 +1,5 @@
 import { DownOutlined, EllipsisOutlined } from '@ant-design/icons';
-import { menuOverlayCompatible } from '@ant-design/pro-utils';
+import { menuOverlayCompatible } from '@plasmicapp/pro-utils';
 import type { MenuItemProps } from 'antd';
 import { Button, ConfigProvider, Dropdown } from 'antd';
 import classnames from 'classnames';

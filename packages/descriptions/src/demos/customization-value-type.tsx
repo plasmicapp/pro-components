@@ -1,4 +1,4 @@
-import { ProDescriptions, ProProvider } from '@ant-design/pro-components';
+import { ProDescriptions, ProProvider } from '@plasmicapp/pro-components';
 import type { InputRef } from 'antd';
 import { Input, Space, Tag } from 'antd';
 import React, { useContext, useRef, useState } from 'react';

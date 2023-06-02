@@ -1,11 +1,11 @@
-﻿import type { ProHelpDataSourceChildren } from '@ant-design/pro-components';
+﻿import type { ProHelpDataSourceChildren } from '@plasmicapp/pro-components';
 import {
   ProHelp,
   ProHelpDrawer,
   ProHelpModal,
   ProHelpPanel,
   ProHelpSelect,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import { Typography } from 'antd';
 

@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel, parseValueToDay } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { FieldLabel, parseValueToDay } from '@plasmicapp/pro-utils';
 import type { DatePickerProps } from 'antd';
 import { DatePicker } from 'antd';
 import dayjs from 'dayjs';

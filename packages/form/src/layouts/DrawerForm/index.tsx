@@ -1,4 +1,4 @@
-﻿import { openVisibleCompatible, useRefFunction } from '@ant-design/pro-utils';
+﻿import { openVisibleCompatible, useRefFunction } from '@plasmicapp/pro-utils';
 import type { DrawerProps, FormProps } from 'antd';
 import { ConfigProvider, Drawer } from 'antd';
 import merge from 'lodash.merge';

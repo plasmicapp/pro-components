@@ -1,4 +1,4 @@
-import { ProFormGroup, ProFormText, QueryFilter } from '@ant-design/pro-form';
+import { ProFormGroup, ProFormText, QueryFilter } from '@plasmicapp/pro-form';
 import { fireEvent, render, waitFor } from '@testing-library/react';
 
 describe('QueryFilter', () => {

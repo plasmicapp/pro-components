@@ -1,5 +1,5 @@
 import { EllipsisOutlined } from '@ant-design/icons';
-import { PageContainer, ProCard } from '@ant-design/pro-components';
+import { PageContainer, ProCard } from '@plasmicapp/pro-components';
 import { Button, Dropdown } from 'antd';
 
 export default () => (

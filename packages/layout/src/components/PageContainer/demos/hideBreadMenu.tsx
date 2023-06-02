@@ -1,4 +1,4 @@
-import { PageContainer, ProCard } from '@ant-design/pro-components';
+import { PageContainer, ProCard } from '@plasmicapp/pro-components';
 import { Descriptions } from 'antd';
 
 export default () => (

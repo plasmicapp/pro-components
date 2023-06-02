@@ -374,10 +374,10 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -402,34 +402,34 @@ importers:
 
   packages/components:
     dependencies:
-      '@ant-design/pro-card':
+      '@plasmicapp/pro-card':
         specifier: ^2.4.13
         version: link:../card
-      '@ant-design/pro-descriptions':
+      '@plasmicapp/pro-descriptions':
         specifier: ^2.3.5
         version: link:../descriptions
-      '@ant-design/pro-field':
+      '@plasmicapp/pro-field':
         specifier: ^2.9.5
         version: link:../field
-      '@ant-design/pro-form':
+      '@plasmicapp/pro-form':
         specifier: ^2.13.5
         version: link:../form
-      '@ant-design/pro-layout':
+      '@plasmicapp/pro-layout':
         specifier: ^7.14.3
         version: link:../layout
-      '@ant-design/pro-list':
+      '@plasmicapp/pro-list':
         specifier: ^2.4.5
         version: link:../list
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-skeleton':
+      '@plasmicapp/pro-skeleton':
         specifier: ^2.1.5
         version: link:../skeleton
-      '@ant-design/pro-table':
+      '@plasmicapp/pro-table':
         specifier: ^3.7.5
         version: link:../table
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -438,16 +438,16 @@ importers:
 
   packages/descriptions:
     dependencies:
-      '@ant-design/pro-field':
+      '@plasmicapp/pro-field':
         specifier: ^2.9.5
         version: link:../field
-      '@ant-design/pro-form':
+      '@plasmicapp/pro-form':
         specifier: ^2.13.5
         version: link:../form
-      '@ant-design/pro-skeleton':
+      '@plasmicapp/pro-skeleton':
         specifier: ^2.1.5
         version: link:../skeleton
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -472,10 +472,10 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -521,13 +521,13 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-field':
+      '@plasmicapp/pro-field':
         specifier: ^2.9.5
         version: link:../field
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -573,10 +573,10 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -628,16 +628,16 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-card':
+      '@plasmicapp/pro-card':
         specifier: ^2.4.13
         version: link:../card
-      '@ant-design/pro-field':
+      '@plasmicapp/pro-field':
         specifier: ^2.9.5
         version: link:../field
-      '@ant-design/pro-table':
+      '@plasmicapp/pro-table':
         specifier: ^3.7.5
         version: link:../table
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -703,19 +703,19 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-card':
+      '@plasmicapp/pro-card':
         specifier: ^2.4.13
         version: link:../card
-      '@ant-design/pro-field':
+      '@plasmicapp/pro-field':
         specifier: ^2.9.5
         version: link:../field
-      '@ant-design/pro-form':
+      '@plasmicapp/pro-form':
         specifier: ^2.13.5
         version: link:../form
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
-      '@ant-design/pro-utils':
+      '@plasmicapp/pro-utils':
         specifier: ^2.11.3
         version: link:../utils
       '@babel/runtime':
@@ -758,7 +758,7 @@ importers:
       '@ant-design/icons':
         specifier: ^5.0.0
         version: 5.1.4(react-dom@18.2.0)(react@18.2.0)
-      '@ant-design/pro-provider':
+      '@plasmicapp/pro-provider':
         specifier: ^2.10.2
         version: link:../provider
       '@babel/runtime':

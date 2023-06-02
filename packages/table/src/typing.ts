@@ -1,10 +1,10 @@
-﻿import type { ProCardProps } from '@ant-design/pro-card';
-import type { ProFieldEmptyText } from '@ant-design/pro-field';
+﻿import type { ProCardProps } from '@plasmicapp/pro-card';
+import type { ProFieldEmptyText } from '@plasmicapp/pro-field';
 import type {
   LightWrapperProps,
   ProFormProps,
   QueryFilterProps,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import type {
   ProCoreActionType,
   ProSchema,
@@ -12,7 +12,7 @@ import type {
   ProTableEditableFnType,
   RowEditableConfig,
   SearchTransformKeyFn,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { SpinProps, TableProps } from 'antd';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';

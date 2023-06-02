@@ -44,7 +44,7 @@ ProComponents 是一个基于 React 和 Ant Design 的组件库，它提供了�
 
 | 组件 | 下载量 | 版本 |
 | --- | --- | --- |
-| pro-components | [![layout](https://img.shields.io/npm/dw/@ant-design/pro-components.svg)](https://www.npmjs.com/package/@ant-design/pro-components) | [![npm package](https://img.shields.io/npm/v/@ant-design/pro-components.svg?style=flat-square?style=flat-square)](https://www.npmjs.com/package/@ant-design/pro-components) |
+| pro-components | [![layout](https://img.shields.io/npm/dw/@plasmicapp/pro-components.svg)](https://www.npmjs.com/package/@plasmicapp/pro-components) | [![npm package](https://img.shields.io/npm/v/@plasmicapp/pro-components.svg?style=flat-square?style=flat-square)](https://www.npmjs.com/package/@plasmicapp/pro-components) |
 
 ## 🖥 浏览器兼容性
 

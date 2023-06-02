@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/ban-types */
-import { WaterMark } from '@ant-design/pro-components';
+import { WaterMark } from '@plasmicapp/pro-components';
 import { act, render } from '@testing-library/react';
 
 describe('WaterMark', () => {

@@ -1,4 +1,4 @@
-﻿import { useDebounceFn } from '@ant-design/pro-utils';
+﻿import { useDebounceFn } from '@plasmicapp/pro-utils';
 import { Avatar, ConfigProvider } from 'antd';
 
 import classNames from 'classnames';

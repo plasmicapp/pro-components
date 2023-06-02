@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import { Input, InputNumber } from 'antd';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React from 'react';

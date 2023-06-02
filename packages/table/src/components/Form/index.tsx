@@ -1,4 +1,4 @@
-import { isDeepEqualReact, omitUndefined } from '@ant-design/pro-utils';
+import { isDeepEqualReact, omitUndefined } from '@plasmicapp/pro-utils';
 import type { TablePaginationConfig } from 'antd';
 import omit from 'omit.js';
 import React from 'react';

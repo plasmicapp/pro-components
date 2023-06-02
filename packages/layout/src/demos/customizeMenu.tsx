@@ -1,4 +1,4 @@
-import { PageContainer, ProLayout } from '@ant-design/pro-components';
+import { PageContainer, ProLayout } from '@plasmicapp/pro-components';
 import defaultProps from './_defaultProps';
 
 export default () => {

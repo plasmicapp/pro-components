@@ -1,3 +1,3 @@
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@plasmicapp/pro-components';
 
 export default () => <CheckCard loading />;

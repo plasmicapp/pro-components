@@ -4,7 +4,7 @@ import {
   ProFormText,
   ProFormTreeSelect,
   QueryFilter,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import {
   act,
   cleanup,

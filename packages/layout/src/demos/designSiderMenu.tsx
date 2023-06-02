@@ -3,13 +3,13 @@ import {
   InfoCircleFilled,
   QuestionCircleFilled,
 } from '@ant-design/icons';
-import type { ProSettings } from '@ant-design/pro-components';
+import type { ProSettings } from '@plasmicapp/pro-components';
 import {
   PageContainer,
   ProCard,
   ProLayout,
   SettingDrawer,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { useState } from 'react';
 import defaultProps from './_defaultProps';
 

@@ -1,4 +1,4 @@
-import { ProForm, ProFormRadio, ProFormText } from '@ant-design/pro-components';
+import { ProForm, ProFormRadio, ProFormText } from '@plasmicapp/pro-components';
 import { Col, message, Row, Space } from 'antd';
 import { useState } from 'react';
 

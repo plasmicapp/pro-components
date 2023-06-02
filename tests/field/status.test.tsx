@@ -1,4 +1,4 @@
-import Field from '@ant-design/pro-field';
+import Field from '@plasmicapp/pro-field';
 import { render } from '@testing-library/react';
 
 describe('Field Status', () => {

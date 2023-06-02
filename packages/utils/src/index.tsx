@@ -21,7 +21,7 @@ import {
   resetComponent,
   setAlpha,
   useStyle,
-} from '@ant-design/pro-provider';
+} from '@plasmicapp/pro-provider';
 import { compareVersions } from './compareVersions';
 import { menuOverlayCompatible } from './compareVersions/menuOverlayCompatible';
 import { openVisibleCompatible } from './compareVersions/openVisibleCompatible';

@@ -1,5 +1,5 @@
-import { ProProvider } from '@ant-design/pro-provider';
-import { openVisibleCompatible } from '@ant-design/pro-utils';
+import { ProProvider } from '@plasmicapp/pro-provider';
+import { openVisibleCompatible } from '@plasmicapp/pro-utils';
 import { ConfigProvider, Drawer } from 'antd';
 import classNames from 'classnames';
 import Omit from 'omit.js';

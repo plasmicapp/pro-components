@@ -1,4 +1,4 @@
-import ProForm, { ProFormCaptcha } from '@ant-design/pro-form';
+import ProForm, { ProFormCaptcha } from '@plasmicapp/pro-form';
 import { act, fireEvent, render } from '@testing-library/react';
 import { Button, message } from 'antd';
 import React from 'react';

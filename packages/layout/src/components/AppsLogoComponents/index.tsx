@@ -1,4 +1,4 @@
-﻿import { openVisibleCompatible } from '@ant-design/pro-utils';
+﻿import { openVisibleCompatible } from '@plasmicapp/pro-utils';
 import { Popover } from 'antd';
 import classNames from 'classnames';
 import React, { useMemo, useState } from 'react';

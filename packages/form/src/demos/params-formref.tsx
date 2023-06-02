@@ -1,4 +1,4 @@
-﻿import { BetaSchemaForm } from '@ant-design/pro-components';
+﻿import { BetaSchemaForm } from '@plasmicapp/pro-components';
 import { useEffect, useRef, useState } from 'react';
 
 export default () => {

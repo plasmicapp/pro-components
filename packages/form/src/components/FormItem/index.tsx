@@ -2,8 +2,8 @@
   ProFieldValueType,
   SearchConvertKeyFn,
   SearchTransformKeyFn,
-} from '@ant-design/pro-utils';
-import { isDropdownValueType, omitUndefined } from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
+import { isDropdownValueType, omitUndefined } from '@plasmicapp/pro-utils';
 import type { FormItemProps } from 'antd';
 import { ConfigProvider, Form } from 'antd';
 import type { NamePath } from 'antd/lib/form/interface';

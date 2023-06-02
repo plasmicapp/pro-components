@@ -1,6 +1,6 @@
 /** Title: 前置水印 */
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable, TableDropdown, WaterMark } from '@ant-design/pro-components';
+import type { ProColumns } from '@plasmicapp/pro-components';
+import { ProTable, TableDropdown, WaterMark } from '@plasmicapp/pro-components';
 
 const valueEnum = {
   0: 'close',

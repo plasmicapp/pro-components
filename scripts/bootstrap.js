@@ -11,7 +11,7 @@ const { yParser } = require('@umijs/utils');
   );
 
   pkgs.forEach((shortName) => {
-    const name = `@ant-design/pro-${shortName}`;
+    const name = `@plasmicapp/pro-${shortName}`;
 
     const pkgJSONPath = join(
       __dirname,

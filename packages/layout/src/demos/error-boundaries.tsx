@@ -1,4 +1,4 @@
-﻿import { PageContainer, ProLayout } from '@ant-design/pro-components';
+﻿import { PageContainer, ProLayout } from '@plasmicapp/pro-components';
 import { Button, Result } from 'antd';
 import type { ErrorInfo } from 'react';
 import React, { useState } from 'react';

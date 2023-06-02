@@ -2,7 +2,7 @@ import {
   FooterToolbar,
   PageContainer,
   ProLayout,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import { Button } from 'antd';
 import React, { useEffect, useMemo, useState } from 'react';

@@ -1,4 +1,4 @@
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@plasmicapp/pro-components';
 import { Col, Row } from 'antd';
 
 export default () => (

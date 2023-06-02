@@ -4,7 +4,7 @@ import type {
   ProSchemaComponentTypes,
   SearchConvertKeyFn,
   SearchTransformKeyFn,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { FormInstance, FormProps } from 'antd';
 import type { NamePath } from 'antd/lib/form/interface';
 import type { CommonFormProps } from '../../BaseForm';

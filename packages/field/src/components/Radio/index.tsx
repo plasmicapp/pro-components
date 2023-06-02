@@ -1,4 +1,4 @@
-import { useStyle } from '@ant-design/pro-utils';
+import { useStyle } from '@plasmicapp/pro-utils';
 import type { RadioGroupProps } from 'antd';
 import { ConfigProvider, Radio, Spin } from 'antd';
 import classNames from 'classnames';

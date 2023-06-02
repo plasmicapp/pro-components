@@ -1,4 +1,4 @@
-﻿import { omitUndefined } from '@ant-design/pro-utils';
+﻿import { omitUndefined } from '@plasmicapp/pro-utils';
 import { useEffect, useState } from 'react';
 import type { ProSettings } from '../defaultSettings';
 

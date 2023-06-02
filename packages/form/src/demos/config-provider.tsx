@@ -10,7 +10,7 @@ import {
   ProFormUploadButton,
   ProFormUploadDragger,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { ConfigProvider, Input } from 'antd';
 import enUS from 'antd/lib/locale/en_US';
 import { LightWrapper } from '../BaseForm/LightWrapper';

@@ -1,4 +1,4 @@
-import { StatisticCard } from '@ant-design/pro-components';
+import { StatisticCard } from '@plasmicapp/pro-components';
 
 const { Divider } = StatisticCard;
 

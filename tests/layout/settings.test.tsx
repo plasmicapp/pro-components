@@ -1,4 +1,4 @@
-import { ProLayout } from '@ant-design/pro-components';
+import { ProLayout } from '@plasmicapp/pro-components';
 import { render } from '@testing-library/react';
 import { waitForWaitTime } from '../util';
 

@@ -1,11 +1,11 @@
-import type { ProFormColumnsType } from '@ant-design/pro-components';
+import type { ProFormColumnsType } from '@plasmicapp/pro-components';
 import {
   BetaSchemaForm,
   ProCard,
   ProConfigProvider,
   ProDescriptions,
   ProTable,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import type { InputRef } from 'antd';
 import { Input, Space, Tag } from 'antd';
 import React, { useRef, useState } from 'react';

@@ -1,4 +1,4 @@
-﻿import { ProProvider } from '@ant-design/pro-provider';
+﻿import { ProProvider } from '@plasmicapp/pro-provider';
 import type { PopoverProps } from 'antd';
 import { ConfigProvider, Popover } from 'antd';
 import classNames from 'classnames';

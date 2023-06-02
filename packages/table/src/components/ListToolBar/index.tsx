@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { LabelIconTip } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { LabelIconTip } from '@plasmicapp/pro-utils';
 import type { TabPaneProps } from 'antd';
 import { ConfigProvider, Input, Tabs, Tooltip } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';

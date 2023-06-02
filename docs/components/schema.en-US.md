@@ -289,7 +289,7 @@ const valueEnum = {
 ```
 
 ```tsx | pure
-import { ProFormSelect } from '@ant-design/pro-components';
+import { ProFormSelect } from '@plasmicapp/pro-components';
 
 const valueEnum = {
   all: { text: '全部', status: 'Default' },
@@ -367,7 +367,7 @@ const columns = [
 ```
 
 ```tsx | pure
-import { ProFormSelect } from '@ant-design/pro-components';
+import { ProFormSelect } from '@plasmicapp/pro-components';
 
 const options = [
   {
@@ -440,7 +440,7 @@ import {
   ProForm,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 const request = async (params) => {
   console.log(params);

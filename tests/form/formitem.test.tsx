@@ -1,4 +1,4 @@
-import ProForm, { ProFormText } from '@ant-design/pro-form';
+import ProForm, { ProFormText } from '@plasmicapp/pro-form';
 import { fireEvent, render } from '@testing-library/react';
 import { Input } from 'antd';
 

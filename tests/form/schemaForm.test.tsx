@@ -1,9 +1,9 @@
 ﻿import type {
   ProFormColumnsType,
   ProFormLayoutType,
-} from '@ant-design/pro-form';
-import { BetaSchemaForm } from '@ant-design/pro-form';
-import { ProProvider } from '@ant-design/pro-provider';
+} from '@plasmicapp/pro-form';
+import { BetaSchemaForm } from '@plasmicapp/pro-form';
+import { ProProvider } from '@plasmicapp/pro-provider';
 import {
   act,
   fireEvent,

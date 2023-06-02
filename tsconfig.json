@@ -15,17 +15,17 @@
     "resolveJsonModule": true,
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "@ant-design/pro-layout": ["./packages/layout/src/index.tsx"],
-      "@ant-design/pro-form": ["./packages/form/src/index.tsx"],
-      "@ant-design/pro-table": ["./packages/table/src/index.tsx"],
-      "@ant-design/pro-field": ["./packages/field/src/index.tsx"],
-      "@ant-design/pro-skeleton": ["./packages/skeleton/src/index.tsx"],
-      "@ant-design/pro-list": ["./packages/list/src/index.tsx"],
-      "@ant-design/pro-provider": ["./packages/provider/src/index.tsx"],
-      "@ant-design/pro-descriptions": ["./packages/descriptions/src/index.tsx"],
-      "@ant-design/pro-utils": ["./packages/utils/src/index.tsx"],
-      "@ant-design/pro-card": ["./packages/card/src/index.tsx"],
-      "@ant-design/pro-components": ["./packages/components/src/index.tsx"]
+      "@plasmicapp/pro-layout": ["./packages/layout/src/index.tsx"],
+      "@plasmicapp/pro-form": ["./packages/form/src/index.tsx"],
+      "@plasmicapp/pro-table": ["./packages/table/src/index.tsx"],
+      "@plasmicapp/pro-field": ["./packages/field/src/index.tsx"],
+      "@plasmicapp/pro-skeleton": ["./packages/skeleton/src/index.tsx"],
+      "@plasmicapp/pro-list": ["./packages/list/src/index.tsx"],
+      "@plasmicapp/pro-provider": ["./packages/provider/src/index.tsx"],
+      "@plasmicapp/pro-descriptions": ["./packages/descriptions/src/index.tsx"],
+      "@plasmicapp/pro-utils": ["./packages/utils/src/index.tsx"],
+      "@plasmicapp/pro-card": ["./packages/card/src/index.tsx"],
+      "@plasmicapp/pro-components": ["./packages/components/src/index.tsx"]
     }
   },
   "include": [

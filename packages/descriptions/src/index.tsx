@@ -1,6 +1,6 @@
 import { CheckOutlined, CloseOutlined, EditOutlined } from '@ant-design/icons';
-import ProForm, { ProFormField } from '@ant-design/pro-form';
-import ProSkeleton from '@ant-design/pro-skeleton';
+import ProForm, { ProFormField } from '@plasmicapp/pro-form';
+import ProSkeleton from '@plasmicapp/pro-skeleton';
 import type {
   ProCoreActionType,
   ProFieldValueType,
@@ -8,7 +8,7 @@ import type {
   ProSchemaComponentTypes,
   RowEditableConfig,
   UseEditableMapUtilType,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import {
   ErrorBoundary,
   genCopyable,
@@ -16,7 +16,7 @@ import {
   InlineErrorFormItem,
   LabelIconTip,
   useEditableMap,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { DescriptionsProps, FormInstance, FormProps } from 'antd';
 import { ConfigProvider, Descriptions, Space } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
@@ -28,7 +28,7 @@ import type { RequestData } from './useFetchData';
 import useFetchData from './useFetchData';
 
 // 兼容代码-----------
-import type { ProFieldFCMode } from '@ant-design/pro-provider';
+import type { ProFieldFCMode } from '@plasmicapp/pro-provider';
 import 'antd/lib/descriptions/style';
 //----------------------
 

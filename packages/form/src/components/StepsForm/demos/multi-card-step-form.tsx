@@ -8,7 +8,7 @@
   ProFormSelect,
   ProFormText,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { message } from 'antd';
 
 const waitTime = (time: number = 100) => {

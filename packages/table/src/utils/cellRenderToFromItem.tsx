@@ -1,21 +1,21 @@
-import type { ProFieldEmptyText } from '@ant-design/pro-field';
-import type { ProFormFieldProps } from '@ant-design/pro-form';
+import type { ProFieldEmptyText } from '@plasmicapp/pro-field';
+import type { ProFormFieldProps } from '@plasmicapp/pro-form';
 import {
   FieldContext,
   ProForm,
   ProFormDependency,
   ProFormField,
-} from '@ant-design/pro-form';
+} from '@plasmicapp/pro-form';
 import type {
   ProFieldValueType,
   ProSchemaComponentTypes,
   UseEditableUtilType,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import {
   getFieldPropsOrFormItemProps,
   InlineErrorFormItem,
   runFunction,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import React, {
   useCallback,
   useContext,

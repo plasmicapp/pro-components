@@ -1,6 +1,6 @@
 import { DownOutlined } from '@ant-design/icons';
-import { ProProvider } from '@ant-design/pro-provider';
-import { menuOverlayCompatible } from '@ant-design/pro-utils';
+import { ProProvider } from '@plasmicapp/pro-provider';
+import { menuOverlayCompatible } from '@plasmicapp/pro-utils';
 import { Dropdown, Space, Tabs } from 'antd';
 import classNames from 'classnames';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';

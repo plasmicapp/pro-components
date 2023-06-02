@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import { InputNumber } from 'antd';
 import React from 'react';
 import type { ProFieldFC } from '../../index';

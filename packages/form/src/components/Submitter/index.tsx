@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import type { ButtonProps } from 'antd';
 import { Button, Form } from 'antd';
 import omit from 'omit.js';

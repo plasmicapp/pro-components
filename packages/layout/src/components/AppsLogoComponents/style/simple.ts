@@ -1,4 +1,4 @@
-﻿import type { GenerateStyle } from '@ant-design/pro-provider';
+﻿import type { GenerateStyle } from '@plasmicapp/pro-provider';
 import type { AppsLogoComponentsToken } from './index';
 
 const genAppsLogoComponentsSimpleListStyle: GenerateStyle<

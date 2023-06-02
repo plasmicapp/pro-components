@@ -1,5 +1,5 @@
-import { FieldIndexColumn, FieldStatus } from '@ant-design/pro-field';
-import type { IntlType } from '@ant-design/pro-provider';
+import { FieldIndexColumn, FieldStatus } from '@plasmicapp/pro-field';
+import type { IntlType } from '@plasmicapp/pro-provider';
 import {
   arEGIntl,
   caESIntl,
@@ -17,11 +17,11 @@ import {
   viVNIntl,
   zhCNIntl,
   zhTWIntl,
-} from '@ant-design/pro-provider';
+} from '@plasmicapp/pro-provider';
 import type {
   ProFieldValueType,
   RowEditableConfig,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { DragTableProps } from './components/DragSortTable';
 import DragSortTable from './components/DragSortTable';
 import TableDropdown from './components/Dropdown';

@@ -1,9 +1,9 @@
 import type {
   ProDescriptionsActionType,
   ProDescriptionsItemProps,
-} from '@ant-design/pro-descriptions';
-import Descriptions from '@ant-design/pro-descriptions';
-import type { RowEditableConfig } from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-descriptions';
+import Descriptions from '@plasmicapp/pro-descriptions';
+import type { RowEditableConfig } from '@plasmicapp/pro-utils';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import { Form, InputNumber } from 'antd';
 import useMergedState from 'rc-util/es/hooks/useMergedState';

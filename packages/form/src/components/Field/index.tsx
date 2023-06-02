@@ -1,6 +1,6 @@
-import ProField from '@ant-design/pro-field';
-import type { ProSchema } from '@ant-design/pro-utils';
-import { isDeepEqualReact, runFunction } from '@ant-design/pro-utils';
+import ProField from '@plasmicapp/pro-field';
+import type { ProSchema } from '@plasmicapp/pro-utils';
+import { isDeepEqualReact, runFunction } from '@plasmicapp/pro-utils';
 import React, { memo, useContext, useMemo } from 'react';
 import { createField } from '../../BaseForm/createField';
 import { EditOrReadOnlyContext } from '../../BaseForm/EditOrReadOnlyContext';

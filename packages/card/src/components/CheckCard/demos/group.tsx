@@ -1,4 +1,4 @@
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@plasmicapp/pro-components';
 
 export default () => (
   <div style={{ padding: 24, backgroundColor: '#f7f8fa' }}>

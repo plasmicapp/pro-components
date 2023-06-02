@@ -1,5 +1,5 @@
 /** Title: 图片水印 */
-import { WaterMark } from '@ant-design/pro-components';
+import { WaterMark } from '@plasmicapp/pro-components';
 
 export default () => {
   return (

@@ -1,5 +1,5 @@
 import { SearchOutlined } from '@ant-design/icons';
-import { FieldLabel, useStyle } from '@ant-design/pro-utils';
+import { FieldLabel, useStyle } from '@plasmicapp/pro-utils';
 import type { SelectProps } from 'antd';
 import { ConfigProvider, Input, Select } from 'antd';
 

@@ -1,5 +1,5 @@
-import { ProProvider } from '@ant-design/pro-provider';
-import { ErrorBoundary } from '@ant-design/pro-utils';
+import { ProProvider } from '@plasmicapp/pro-provider';
+import { ErrorBoundary } from '@plasmicapp/pro-utils';
 import { Layout } from 'antd';
 import classNames from 'classnames';
 import type { CSSProperties } from 'react';

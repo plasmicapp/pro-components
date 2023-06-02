@@ -1,4 +1,4 @@
-# @ant-design/pro-table
+# @plasmicapp/pro-table
 
 > ProTable was created to solve the problem of having to write a lot of sample code for tables in a project, so a lot of common logic was encapsulated in it. These wrappers can be simply categorized as pre-defined behaviors and pre-defined logic.
 
@@ -133,11 +133,11 @@ const defaultColConfig = {
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-table
+$ npm install --save  @plasmicapp/pro-table
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-table
+$ yarn add @plasmicapp/pro-table
 ```

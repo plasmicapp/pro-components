@@ -1,4 +1,4 @@
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@plasmicapp/pro-components';
 import { act, render, waitFor } from '@testing-library/react';
 
 describe('CheckCard', () => {

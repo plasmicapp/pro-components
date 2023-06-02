@@ -1,5 +1,5 @@
-﻿import type { GenerateStyle } from '@ant-design/pro-provider';
-import { resetComponent } from '@ant-design/pro-utils';
+﻿import type { GenerateStyle } from '@plasmicapp/pro-provider';
+import { resetComponent } from '@plasmicapp/pro-utils';
 import type { AppsLogoComponentsToken } from './index';
 const genAppsLogoComponentsDefaultListStyle: GenerateStyle<
   AppsLogoComponentsToken

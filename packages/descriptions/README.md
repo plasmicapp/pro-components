@@ -1,8 +1,8 @@
-# @ant-design/pro-descriptions
+# @plasmicapp/pro-descriptions
 
 > Advanced description list component, providing a more convenient and faster solution to build description lists.
 
-See our website [@ant-design/pro-descriptions](https://procomponent.ant.design/) for more information.
+See our website [@plasmicapp/pro-descriptions](https://procomponent.ant.design/) for more information.
 
 ProDescriptions was created to solve the problem of having to write a lot of sample code for Descriptions in a project, so it encapsulates a lot of common logic in it. Writing a Descriptions in React inevitably requires defining some of the same properties. So ProDescriptions by default encapsulates the logic of requesting network, columns display.
 
@@ -43,11 +43,11 @@ interface RequestData {
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-descriptions
+$ npm install --save  @plasmicapp/pro-descriptions
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-descriptions
+$ yarn add @plasmicapp/pro-descriptions
 ```

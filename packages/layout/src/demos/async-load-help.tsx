@@ -1,4 +1,4 @@
-﻿import { ProHelp, ProHelpPanel } from '@ant-design/pro-components';
+﻿import { ProHelp, ProHelpPanel } from '@plasmicapp/pro-components';
 import { App } from 'antd';
 
 import ReactMarkdown from 'react-markdown';

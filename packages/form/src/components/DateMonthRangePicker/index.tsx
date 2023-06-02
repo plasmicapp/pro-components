@@ -1,4 +1,4 @@
-import { dateArrayFormatter } from '@ant-design/pro-utils';
+import { dateArrayFormatter } from '@plasmicapp/pro-utils';
 import type { RangePickerProps } from 'antd/lib/date-picker';
 import React, { useContext } from 'react';
 import FieldContext from '../../FieldContext';

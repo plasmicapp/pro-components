@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
-import { ProProvider, useIntl } from '@ant-design/pro-provider';
-import { isBrowser, useMountMergeState } from '@ant-design/pro-utils';
+import { ProProvider, useIntl } from '@plasmicapp/pro-provider';
+import { isBrowser, useMountMergeState } from '@plasmicapp/pro-utils';
 import type { ColProps, FormItemProps, RowProps } from 'antd';
 import { Col, ConfigProvider, Form, Row } from 'antd';
 import type { FormInstance, FormProps } from 'antd/lib/form/Form';

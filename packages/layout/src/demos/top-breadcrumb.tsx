@@ -2,7 +2,7 @@ import {
   PageContainer,
   ProBreadcrumb,
   ProLayout,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 export default () => (
   <div

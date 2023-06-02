@@ -1,5 +1,5 @@
-import type { IntlType } from '@ant-design/pro-provider';
-import type { UseEditableUtilType } from '@ant-design/pro-utils';
+import type { IntlType } from '@plasmicapp/pro-provider';
+import type { UseEditableUtilType } from '@plasmicapp/pro-utils';
 import type { TablePaginationConfig } from 'antd';
 import type { SortOrder } from 'antd/lib/table/interface';
 import type React from 'react';

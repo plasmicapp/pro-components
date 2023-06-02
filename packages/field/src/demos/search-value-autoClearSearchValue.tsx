@@ -1,4 +1,4 @@
-﻿import { ProFormSelect } from '@ant-design/pro-components';
+﻿import { ProFormSelect } from '@plasmicapp/pro-components';
 
 export default function App() {
   return (

@@ -1,4 +1,4 @@
-import ProTable from '@ant-design/pro-table';
+import ProTable from '@plasmicapp/pro-table';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import type { FormInstance } from 'antd';
 import React from 'react';

@@ -3,7 +3,7 @@ import {
   ProFormDependency,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { message } from 'antd';
 
 const waitTime = (time: number = 100) => {

@@ -1,4 +1,4 @@
-import { compareVersions } from '@ant-design/pro-utils';
+import { compareVersions } from '@plasmicapp/pro-utils';
 import type { BreadcrumbProps } from 'antd';
 import { version } from 'antd';
 import type {

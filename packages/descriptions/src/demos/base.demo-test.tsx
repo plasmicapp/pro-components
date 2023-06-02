@@ -1,4 +1,4 @@
-import { ProDescriptions } from '@ant-design/pro-components';
+import { ProDescriptions } from '@plasmicapp/pro-components';
 import { Button } from 'antd';
 
 export default () => {

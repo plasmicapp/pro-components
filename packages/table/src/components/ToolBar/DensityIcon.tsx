@@ -1,6 +1,6 @@
 import { ColumnHeightOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
-import { menuOverlayCompatible } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { menuOverlayCompatible } from '@plasmicapp/pro-utils';
 import { Dropdown, Tooltip } from 'antd';
 import React, { useContext } from 'react';
 import { TableContext } from '../../Store/Provide';

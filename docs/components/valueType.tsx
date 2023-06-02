@@ -1,5 +1,5 @@
-﻿import type { ProFieldValueType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProFormSelect } from '@ant-design/pro-components';
+﻿import type { ProFieldValueType } from '@plasmicapp/pro-components';
+import { BetaSchemaForm, ProFormSelect } from '@plasmicapp/pro-components';
 import { useState } from 'react';
 
 const valueEnum = {

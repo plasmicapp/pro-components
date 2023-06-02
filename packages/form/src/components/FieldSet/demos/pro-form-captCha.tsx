@@ -1,6 +1,6 @@
-import { ProForm, ProFormCaptcha } from '@ant-design/pro-components';
+import { ProForm, ProFormCaptcha } from '@plasmicapp/pro-components';
 
-import type { CaptFieldRef } from '@ant-design/pro-components';
+import type { CaptFieldRef } from '@plasmicapp/pro-components';
 import { Button, message } from 'antd';
 import { useRef } from 'react';
 

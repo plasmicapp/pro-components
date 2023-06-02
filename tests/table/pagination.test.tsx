@@ -1,4 +1,4 @@
-import ProTable, { TableDropdown } from '@ant-design/pro-table';
+import ProTable, { TableDropdown } from '@plasmicapp/pro-table';
 import { act, fireEvent, render } from '@testing-library/react';
 import { waitForWaitTime } from '../util';
 import { request } from './demo';

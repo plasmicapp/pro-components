@@ -2,7 +2,7 @@ import {
   PageContainer,
   ProLayout,
   SettingDrawer,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import defaultProps from './_defaultProps';
 
 export default () => {

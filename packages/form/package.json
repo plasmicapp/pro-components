@@ -1,7 +1,7 @@
 {
-  "name": "@ant-design/pro-form",
+  "name": "@plasmicapp/pro-form",
   "version": "2.13.5",
-  "description": "@ant-design/pro-form",
+  "description": "@plasmicapp/pro-form",
   "keywords": [
     "antd",
     "admin",
@@ -35,9 +35,9 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
-    "@ant-design/pro-field": "^2.9.5",
-    "@ant-design/pro-provider": "^2.10.2",
-    "@ant-design/pro-utils": "^2.11.3",
+    "@plasmicapp/pro-field": "^2.9.5",
+    "@plasmicapp/pro-provider": "^2.10.2",
+    "@plasmicapp/pro-utils": "^2.11.3",
     "@babel/runtime": "^7.18.0",
     "@chenshuai2144/sketch-color": "^1.0.7",
     "@umijs/use-params": "^1.0.9",

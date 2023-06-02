@@ -1,4 +1,4 @@
-import Field from '@ant-design/pro-field';
+import Field from '@plasmicapp/pro-field';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import dayjs from 'dayjs';
 

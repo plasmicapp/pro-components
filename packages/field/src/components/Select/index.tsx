@@ -1,18 +1,18 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import type {
   ProFieldRequestData,
   ProFieldValueEnumType,
   ProSchemaValueEnumMap,
   ProSchemaValueEnumObj,
   RequestOptionsType,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import {
   nanoid,
   useDebounceValue,
   useDeepCompareEffect,
   useMountMergeState,
   useStyle,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { SelectProps } from 'antd';
 import { ConfigProvider, Space, Spin } from 'antd';
 import type { ReactNode } from 'react';

@@ -158,7 +158,7 @@ const enLocale = {
 
 // Generate the intl object
 const enUSIntl = createIntl('en_US', enUS);
-import { ConfigProvider } from '@ant-design/pro-provide';
+import { ConfigProvider } from '@plasmicapp/pro-provide';
 // use
 <ConfigProvider
   value={{

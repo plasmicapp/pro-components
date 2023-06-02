@@ -11,7 +11,7 @@ const pkgList = readdirSync(join(__dirname, 'packages')).filter(
 );
 
 const alias = pkgList.reduce((pre, pkg) => {
-  pre[`@ant-design/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
+  pre[`@plasmicapp/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
   return {
     ...pre,
   };
@@ -416,7 +416,7 @@ export default defineConfig({
     },
     apiHeader: {
       // 组件库包名，可以从 package.json 中引入名称
-      pkg: '@ant-design/pro-components',
+      pkg: '@plasmicapp/pro-components',
       // 匹配路由，默认为 /api 或 /components
       match: ['/api', '/components'],
     },

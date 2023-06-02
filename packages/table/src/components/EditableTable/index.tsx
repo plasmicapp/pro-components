@@ -1,13 +1,13 @@
 ﻿import { PlusOutlined } from '@ant-design/icons';
-import type { ProFormInstance } from '@ant-design/pro-form';
-import ProForm, { ProFormDependency } from '@ant-design/pro-form';
-import type { ParamsType } from '@ant-design/pro-provider';
-import { useIntl } from '@ant-design/pro-provider';
+import type { ProFormInstance } from '@plasmicapp/pro-form';
+import ProForm, { ProFormDependency } from '@plasmicapp/pro-form';
+import type { ParamsType } from '@plasmicapp/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import {
   isDeepEqualReact,
   runFunction,
   useRefFunction,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { ButtonProps, FormItemProps } from 'antd';
 import { Button, Form } from 'antd';
 import type { NamePath } from 'antd/lib/form/interface';

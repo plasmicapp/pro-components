@@ -18,7 +18,7 @@ import {
   ProFormText,
   QueryFilter,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Button, message, Space } from 'antd';
 import { useState } from 'react';
 

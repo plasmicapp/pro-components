@@ -1,5 +1,5 @@
-import type { StatisticProps } from '@ant-design/pro-components';
-import { ProCard, StatisticCard } from '@ant-design/pro-components';
+import type { StatisticProps } from '@plasmicapp/pro-components';
+import { ProCard, StatisticCard } from '@plasmicapp/pro-components';
 
 const { Statistic } = StatisticCard;
 

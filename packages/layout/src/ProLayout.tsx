@@ -1,14 +1,14 @@
-import type { GenerateStyle, ProTokenType } from '@ant-design/pro-provider';
+import type { GenerateStyle, ProTokenType } from '@plasmicapp/pro-provider';
 import {
   isNeedOpenHash,
   ProConfigProvider,
   ProProvider,
-} from '@ant-design/pro-provider';
+} from '@plasmicapp/pro-provider';
 import {
   isBrowser,
   useDocumentTitle,
   useMountMergeState,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import { getMatchMenu } from '@umijs/route-utils';
 import type { BreadcrumbProps } from 'antd';
 import { ConfigProvider, Layout } from 'antd';

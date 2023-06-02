@@ -8,7 +8,7 @@
   ProFormRadio,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { useState } from 'react';
 
 const Demo = () => {

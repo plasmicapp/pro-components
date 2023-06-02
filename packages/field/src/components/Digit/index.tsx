@@ -1,11 +1,11 @@
-import { isNil } from '@ant-design/pro-utils';
+import { isNil } from '@plasmicapp/pro-utils';
 import { InputNumber } from 'antd';
 import omit from 'omit.js';
 import React, { useCallback } from 'react';
 import type { ProFieldFC } from '../../index';
 
 // 兼容代码-----------
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@plasmicapp/pro-provider';
 import 'antd/lib/input-number/style';
 //----------------------
 

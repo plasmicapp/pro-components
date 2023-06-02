@@ -1,4 +1,4 @@
-﻿import { ModalForm, ProFormText } from '@ant-design/pro-form';
+﻿import { ModalForm, ProFormText } from '@plasmicapp/pro-form';
 import { act, fireEvent, render, waitFor } from '@testing-library/react';
 import type { FormInstance } from 'antd';
 import { Button } from 'antd';

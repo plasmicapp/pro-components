@@ -25,12 +25,12 @@ ProComponents 是基于 Ant Design 而开发的模板组件，提供了更高级
 当前 ProComponents 每一个组件都是一个独立的包，你需要在你的项目中安装对应的 npm 包并使用。
 
 ```shell
-$ npm i @ant-design/pro-components --save
+$ npm i @plasmicapp/pro-components --save
 ```
 
 当前 ProComponents 提供了如下组件可直接使用：
 
-- `npm i @ant-design/pro-components --save`
+- `npm i @plasmicapp/pro-components --save`
 
 ## 在项目中使用
 
@@ -38,7 +38,7 @@ $ npm i @ant-design/pro-components --save
 
 ```jsx
 import React from 'react';
-import { ProForm, ProFormText } from '@ant-design/pro-components';
+import { ProForm, ProFormText } from '@plasmicapp/pro-components';
 
 export default () => {
   return (

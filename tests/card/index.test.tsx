@@ -1,4 +1,4 @@
-import { ProCard } from '@ant-design/pro-components';
+import { ProCard } from '@plasmicapp/pro-components';
 import { act, render } from '@testing-library/react';
 
 jest.mock('antd/lib/grid/hooks/useBreakpoint');

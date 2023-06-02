@@ -1,4 +1,4 @@
-﻿import { ModalForm, ProFormText } from '@ant-design/pro-components';
+﻿import { ModalForm, ProFormText } from '@plasmicapp/pro-components';
 import { Button, message, Space } from 'antd';
 
 const waitTime = (time: number = 100) => {

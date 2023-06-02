@@ -2,7 +2,7 @@ import {
   ProFormDatePicker,
   ProFormText,
   QueryFilter,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 export default () => {
   return (

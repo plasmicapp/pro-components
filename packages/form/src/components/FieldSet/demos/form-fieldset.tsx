@@ -4,7 +4,7 @@
   ProFormFieldSet,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { Switch } from 'antd';
 import { useState } from 'react';
 

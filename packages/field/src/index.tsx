@@ -2,15 +2,15 @@ import type {
   BaseProFieldFC,
   ProFieldFCRenderProps,
   ProRenderFieldPropsType,
-} from '@ant-design/pro-provider';
-import ProConfigContext from '@ant-design/pro-provider';
+} from '@plasmicapp/pro-provider';
+import ProConfigContext from '@plasmicapp/pro-provider';
 import type {
   ProFieldRequestData,
   ProFieldTextType,
   ProFieldValueObjectType,
   ProFieldValueType,
-} from '@ant-design/pro-utils';
-import { omitUndefined, pickProProps } from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
+import { omitUndefined, pickProProps } from '@plasmicapp/pro-utils';
 import { Avatar } from 'antd';
 // import type {RangeInputNumberProps,ExtraProps as } from './components/DigitRange'
 import { noteOnce } from 'rc-util/lib/warning';

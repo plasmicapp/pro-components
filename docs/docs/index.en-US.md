@@ -25,19 +25,19 @@ ProComponents is focused on middle and backend CRUD and has a lot of pre-defined
 Currently each component of ProComponents is a separate package, you need to install the corresponding npm package in your project and use it.
 
 ```shell
-$ npm i @ant-design/pro-components --save
+$ npm i @plasmicapp/pro-components --save
 ```
 
 Current ProComponents provides the following components for direct use.
 
-- `npm i @ant-design/pro-components --save`
+- `npm i @plasmicapp/pro-components --save`
 
 ## Using in a project
 
 Each package is a separate component package, and is used in the following example.
 
 ```tsx | pure
-import { ProForm, ProFormText } from '@ant-design/pro-components';
+import { ProForm, ProFormText } from '@plasmicapp/pro-components';
 
 export default () => {
   return (

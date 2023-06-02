@@ -1,4 +1,4 @@
-import { ProCard, StatisticCard } from '@ant-design/pro-components';
+import { ProCard, StatisticCard } from '@plasmicapp/pro-components';
 import RcResizeObserver from 'rc-resize-observer';
 import { useState } from 'react';
 

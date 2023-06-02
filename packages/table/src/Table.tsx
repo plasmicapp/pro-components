@@ -3,10 +3,10 @@ import 'antd/lib/table/style';
 import 'antd/lib/typography/style';
 //----------------------
 
-import ProCard from '@ant-design/pro-card';
-import ProForm from '@ant-design/pro-form';
-import type { ParamsType } from '@ant-design/pro-provider';
-import { ProConfigProvider, useIntl } from '@ant-design/pro-provider';
+import ProCard from '@plasmicapp/pro-card';
+import ProForm from '@plasmicapp/pro-form';
+import type { ParamsType } from '@plasmicapp/pro-provider';
+import { ProConfigProvider, useIntl } from '@plasmicapp/pro-provider';
 import {
   editableRowByKey,
   ErrorBoundary,
@@ -16,7 +16,7 @@ import {
   useDeepCompareEffectDebounce,
   useEditableArray,
   useMountMergeState,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import type { TablePaginationConfig } from 'antd';
 import { ConfigProvider, Table } from 'antd';
 import type {

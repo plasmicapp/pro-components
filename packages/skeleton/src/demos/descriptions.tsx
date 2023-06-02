@@ -1,4 +1,4 @@
-import ProSkeleton from '@ant-design/pro-skeleton';
+import ProSkeleton from '@plasmicapp/pro-skeleton';
 
 export default () => {
   return (

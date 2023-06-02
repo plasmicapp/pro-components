@@ -1,6 +1,6 @@
 ﻿import { EllipsisOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ProColumns } from '@plasmicapp/pro-components';
+import { ProTable } from '@plasmicapp/pro-components';
 
 export type TableListItem = {
   key: number;

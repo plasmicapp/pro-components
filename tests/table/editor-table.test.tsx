@@ -1,10 +1,10 @@
-import ProForm, { ProFormText } from '@ant-design/pro-form';
+import ProForm, { ProFormText } from '@plasmicapp/pro-form';
 import type {
   ActionType,
   EditableFormInstance,
   ProColumns,
-} from '@ant-design/pro-table';
-import { EditableProTable } from '@ant-design/pro-table';
+} from '@plasmicapp/pro-table';
+import { EditableProTable } from '@plasmicapp/pro-table';
 import {
   act,
   cleanup,

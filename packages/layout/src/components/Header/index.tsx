@@ -1,4 +1,4 @@
-import { isNeedOpenHash, ProProvider } from '@ant-design/pro-provider';
+import { isNeedOpenHash, ProProvider } from '@plasmicapp/pro-provider';
 import { ConfigProvider, Layout } from 'antd';
 import classNames from 'classnames';
 import React, { useCallback, useContext, useEffect, useState } from 'react';

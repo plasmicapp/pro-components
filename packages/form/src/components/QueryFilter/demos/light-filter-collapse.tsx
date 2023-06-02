@@ -2,7 +2,7 @@ import {
   LightFilter,
   ProFormDateTimePicker,
   ProFormSelect,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 export default () => {
   return (

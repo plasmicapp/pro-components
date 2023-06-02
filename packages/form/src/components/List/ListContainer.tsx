@@ -1,6 +1,6 @@
 ﻿import { PlusOutlined } from '@ant-design/icons';
-import { ProProvider, useIntl } from '@ant-design/pro-provider';
-import { nanoid, runFunction } from '@ant-design/pro-utils';
+import { ProProvider, useIntl } from '@plasmicapp/pro-provider';
+import { nanoid, runFunction } from '@plasmicapp/pro-utils';
 import { Button } from 'antd';
 import omit from 'omit.js';
 import type { CSSProperties } from 'react';

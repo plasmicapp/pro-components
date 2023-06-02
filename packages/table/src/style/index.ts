@@ -1,6 +1,6 @@
 ﻿import { Keyframes } from '@ant-design/cssinjs';
-import type { GenerateStyle, ProAliasToken } from '@ant-design/pro-provider';
-import { useStyle as useAntdStyle } from '@ant-design/pro-provider';
+import type { GenerateStyle, ProAliasToken } from '@plasmicapp/pro-provider';
+import { useStyle as useAntdStyle } from '@plasmicapp/pro-provider';
 
 export interface ProListToken extends ProAliasToken {
   componentCls: string;

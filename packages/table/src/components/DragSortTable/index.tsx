@@ -1,5 +1,5 @@
 import { HolderOutlined } from '@ant-design/icons';
-import type { ParamsType } from '@ant-design/pro-provider';
+import type { ParamsType } from '@plasmicapp/pro-provider';
 import { ConfigProvider } from 'antd';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import React, { useContext, useMemo } from 'react';

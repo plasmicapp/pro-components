@@ -1,4 +1,4 @@
-import ProList, { BaseProList } from '@ant-design/pro-list';
+import ProList, { BaseProList } from '@plasmicapp/pro-list';
 import {
   act,
   fireEvent,

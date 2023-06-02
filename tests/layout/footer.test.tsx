@@ -1,4 +1,4 @@
-import { DefaultFooter } from '@ant-design/pro-components';
+import { DefaultFooter } from '@plasmicapp/pro-components';
 import { render } from '@testing-library/react';
 
 describe('DefaultFooter test', () => {

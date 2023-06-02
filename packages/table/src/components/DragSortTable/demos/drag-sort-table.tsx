@@ -1,6 +1,6 @@
 import { MenuOutlined } from '@ant-design/icons';
-import type { ActionType, ProColumns } from '@ant-design/pro-components';
-import { DragSortTable } from '@ant-design/pro-components';
+import type { ActionType, ProColumns } from '@plasmicapp/pro-components';
+import { DragSortTable } from '@plasmicapp/pro-components';
 import { message } from 'antd';
 import { useRef, useState } from 'react';
 

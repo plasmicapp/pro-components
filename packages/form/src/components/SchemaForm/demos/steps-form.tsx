@@ -1,8 +1,8 @@
 ﻿import type {
   FormInstance,
   ProFormColumnsType,
-} from '@ant-design/pro-components';
-import { BetaSchemaForm } from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
+import { BetaSchemaForm } from '@plasmicapp/pro-components';
 import { message } from 'antd';
 import { useRef } from 'react';
 

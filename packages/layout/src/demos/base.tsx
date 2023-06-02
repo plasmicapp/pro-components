@@ -8,14 +8,14 @@ import {
   QuestionCircleFilled,
   SearchOutlined,
 } from '@ant-design/icons';
-import type { ProSettings } from '@ant-design/pro-components';
+import type { ProSettings } from '@plasmicapp/pro-components';
 import {
   PageContainer,
   ProCard,
   ProConfigProvider,
   ProLayout,
   SettingDrawer,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 import { css } from '@emotion/css';
 import {
   Button,

@@ -4,7 +4,7 @@ import {
   ProFormGroup,
   ProFormList,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@plasmicapp/pro-components';
 
 const Demo = () => {
   return (

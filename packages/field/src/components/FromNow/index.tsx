@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { parseValueToDay } from '@ant-design/pro-utils';
+import { useIntl } from '@plasmicapp/pro-provider';
+import { parseValueToDay } from '@plasmicapp/pro-utils';
 import { DatePicker, Tooltip } from 'antd';
 import dayjs from 'dayjs';
 import relativeTime from 'dayjs/plugin/relativeTime';

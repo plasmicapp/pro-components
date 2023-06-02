@@ -1,7 +1,7 @@
 {
-  "name": "@ant-design/pro-provider",
+  "name": "@plasmicapp/pro-provider",
   "version": "2.10.2",
-  "description": "@ant-design/pro-provider",
+  "description": "@plasmicapp/pro-provider",
   "keywords": [
     "antd",
     "admin",

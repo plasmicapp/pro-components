@@ -1,4 +1,4 @@
-﻿import { DrawerForm, ProFormText } from '@ant-design/pro-form';
+﻿import { DrawerForm, ProFormText } from '@plasmicapp/pro-form';
 import { act, render } from '@testing-library/react';
 
 describe('DrawerForm', () => {

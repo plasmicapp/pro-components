@@ -1,4 +1,4 @@
-import type { RequestOptionsType } from '@ant-design/pro-utils';
+import type { RequestOptionsType } from '@plasmicapp/pro-utils';
 import type { SelectProps } from 'antd';
 import { ConfigProvider, Select } from 'antd';
 

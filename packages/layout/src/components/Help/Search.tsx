@@ -1,6 +1,6 @@
 ﻿import { SearchOutlined } from '@ant-design/icons';
-import { ProProvider, useStyle } from '@ant-design/pro-provider';
-import { useDebounceFn } from '@ant-design/pro-utils';
+import { ProProvider, useStyle } from '@plasmicapp/pro-provider';
+import { useDebounceFn } from '@plasmicapp/pro-utils';
 import type { SelectProps } from 'antd';
 import { ConfigProvider, Select } from 'antd';
 import classNames from 'classnames';

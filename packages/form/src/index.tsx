@@ -9,7 +9,7 @@ import 'antd/lib/steps/style';
 import 'antd/lib/tabs/style';
 import 'antd/lib/upload/style';
 //----------------------
-export { ProFormContext } from '@ant-design/pro-utils';
+export { ProFormContext } from '@plasmicapp/pro-utils';
 export type {
   FormInstance,
   FormItemProps,

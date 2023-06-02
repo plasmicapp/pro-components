@@ -9,7 +9,7 @@ import {
   isBrowser,
   merge,
   openVisibleCompatible,
-} from '@ant-design/pro-utils';
+} from '@plasmicapp/pro-utils';
 import { useUrlSearchParams } from '@umijs/use-params';
 import {
   Alert,

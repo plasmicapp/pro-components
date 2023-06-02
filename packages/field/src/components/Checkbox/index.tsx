@@ -1,4 +1,4 @@
-﻿import { useStyle } from '@ant-design/pro-utils';
+﻿import { useStyle } from '@plasmicapp/pro-utils';
 import { Checkbox, ConfigProvider, Space, Spin } from 'antd';
 import type { CheckboxGroupProps } from 'antd/lib/checkbox';
 import classNames from 'classnames';

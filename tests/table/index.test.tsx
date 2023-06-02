@@ -1,5 +1,5 @@
-import type { ActionType } from '@ant-design/pro-table';
-import ProTable, { TableDropdown } from '@ant-design/pro-table';
+import type { ActionType } from '@plasmicapp/pro-table';
+import ProTable, { TableDropdown } from '@plasmicapp/pro-table';
 import {
   act,
   fireEvent,
