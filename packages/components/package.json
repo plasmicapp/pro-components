@@ -1,6 +1,6 @@
 {
   "name": "@plasmicapp/pro-components",
-  "version": "2.6.1",
+  "version": "2.7.0",
   "description": "@plasmicapp/pro-components",
   "keywords": [
     "antd",
@@ -35,17 +35,17 @@
     "ie >= 11"
   ],
   "dependencies": {
-    "@plasmicapp/pro-card": "^2.4.13",
-    "@plasmicapp/pro-descriptions": "^2.3.5",
-    "@plasmicapp/pro-field": "^2.9.5",
-    "@plasmicapp/pro-form": "^2.13.5",
-    "@plasmicapp/pro-layout": "^7.14.3",
-    "@plasmicapp/pro-list": "^2.4.5",
-    "@plasmicapp/pro-provider": "^2.10.2",
-    "@plasmicapp/pro-skeleton": "^2.1.5",
-    "@plasmicapp/pro-table": "^3.7.5",
-    "@plasmicapp/pro-utils": "^2.11.3",
-    "@babel/runtime": "^7.16.3"
+    "@babel/runtime": "^7.16.3",
+    "@plasmicapp/pro-card": "^2.5.0",
+    "@plasmicapp/pro-descriptions": "^2.4.0",
+    "@plasmicapp/pro-field": "^2.10.0",
+    "@plasmicapp/pro-form": "^2.14.0",
+    "@plasmicapp/pro-layout": "^7.15.0",
+    "@plasmicapp/pro-list": "^2.5.0",
+    "@plasmicapp/pro-provider": "^2.11.0",
+    "@plasmicapp/pro-skeleton": "^2.1.6",
+    "@plasmicapp/pro-table": "^3.8.0",
+    "@plasmicapp/pro-utils": "^2.12.0"
   },
   "peerDependencies": {
     "antd": ">=4.23.0",

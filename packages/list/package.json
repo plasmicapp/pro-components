@@ -1,6 +1,6 @@
 {
   "name": "@plasmicapp/pro-list",
-  "version": "2.4.5",
+  "version": "2.5.0",
   "description": "🏆 Use Ant Design List like a Pro!",
   "keywords": [
     "antd",
@@ -33,11 +33,11 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
-    "@plasmicapp/pro-card": "^2.4.13",
-    "@plasmicapp/pro-field": "^2.9.5",
-    "@plasmicapp/pro-table": "^3.7.5",
-    "@plasmicapp/pro-utils": "^2.11.3",
     "@babel/runtime": "^7.18.0",
+    "@plasmicapp/pro-card": "^2.5.0",
+    "@plasmicapp/pro-field": "^2.10.0",
+    "@plasmicapp/pro-table": "^3.8.0",
+    "@plasmicapp/pro-utils": "^2.12.0",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.4",
     "rc-resize-observer": "^1.0.0",

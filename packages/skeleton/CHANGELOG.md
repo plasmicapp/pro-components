@@ -1,6 +1,23 @@
 # Change Log
 
-All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 2.1.6 (2023-06-02)
+
+
+### Bug Fixes
+
+* **layout:** fix menu item icon style error ([#6745](https://github.com/ant-design/pro-components/issues/6745)) ([87f9656](https://github.com/ant-design/pro-components/commit/87f965682e81d9ce166d140dd418a37a6020abcf))
+* **layout:** support icon is a img ([e1b9700](https://github.com/ant-design/pro-components/commit/e1b9700b396eb8f54a87054849a18b992c3417c6))
+* [#5273](https://github.com/ant-design/pro-components/issues/5273) for all components ([#5314](https://github.com/ant-design/pro-components/issues/5314)) ([d25e87c](https://github.com/ant-design/pro-components/commit/d25e87c68db8e3c8d120ffc4cc7cd95e33ce6c24))
+* **colsize:** fix colsize warning ([#1245](https://github.com/ant-design/pro-components/issues/1245)) ([af674b6](https://github.com/ant-design/pro-components/commit/af674b661f53ef7f537bd49bea32784274cf0d34))
+* **form:** ProFormList use uuid ([#4479](https://github.com/ant-design/pro-components/issues/4479)) ([11b3f71](https://github.com/ant-design/pro-components/commit/11b3f717cf545d9a361f173975586a99375c6517))
+* **table:** use menu.items render menu.item ([6f32179](https://github.com/ant-design/pro-components/commit/6f32179c6f411ac77fb743294d9d7838fa4bfc04))
+
+
+
+
 
 ## [2.1.5](https://github.com/ant-design/pro-components/compare/@plasmicapp/pro-skeleton@2.1.4...@plasmicapp/pro-skeleton@2.1.5) (2023-05-31)
 

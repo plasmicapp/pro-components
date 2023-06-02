@@ -1,6 +1,6 @@
 {
   "name": "@plasmicapp/pro-table",
-  "version": "3.7.5",
+  "version": "3.8.0",
   "description": "🏆 Use Ant Design Table like a Pro!",
   "keywords": [
     "antd",
@@ -35,15 +35,15 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
-    "@plasmicapp/pro-card": "^2.4.13",
-    "@plasmicapp/pro-field": "^2.9.5",
-    "@plasmicapp/pro-form": "^2.13.5",
-    "@plasmicapp/pro-provider": "^2.10.2",
-    "@plasmicapp/pro-utils": "^2.11.3",
     "@babel/runtime": "^7.18.0",
     "@dnd-kit/core": "^6.0.8",
     "@dnd-kit/sortable": "^7.0.2",
     "@dnd-kit/utilities": "^3.2.1",
+    "@plasmicapp/pro-card": "^2.5.0",
+    "@plasmicapp/pro-field": "^2.10.0",
+    "@plasmicapp/pro-form": "^2.14.0",
+    "@plasmicapp/pro-provider": "^2.11.0",
+    "@plasmicapp/pro-utils": "^2.12.0",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.4",
     "omit.js": "^2.0.2",

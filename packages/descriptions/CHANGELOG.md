@@ -3,6 +3,80 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.4.0 (2023-06-02)
+
+
+### Bug Fixes
+
+* **components:** src alway use es path ([4a13142](https://github.com/ant-design/pro-components/commit/4a1314225c08a60c5cef9d51f061cdf15a69ca13))
+* **description:** description support editableUtils ([#2035](https://github.com/ant-design/pro-components/issues/2035)) ([8de3e23](https://github.com/ant-design/pro-components/commit/8de3e23954ab4da1637962d5efc3d887cff3d5ce))
+* **descriptions:** fix Descriptions action no center error ([11c1166](https://github.com/ant-design/pro-components/commit/11c11661ce5139b8c4794726cb1df1b760865a27))
+* **descriptions:** fix descriptions copy dom error ([#4695](https://github.com/ant-design/pro-components/issues/4695)) ([2f832bb](https://github.com/ant-design/pro-components/commit/2f832bb114c6f8cb2a3f43b4b5f73c565dcc681d))
+* **descriptions:** fix descriptions edit will throw error ([533031e](https://github.com/ant-design/pro-components/commit/533031e50c87bd5be830cfa7ac079a1ffdb34424))
+* **descriptions:** fix descriptions editor error ([#1878](https://github.com/ant-design/pro-components/issues/1878)) ([5412a67](https://github.com/ant-design/pro-components/commit/5412a67c2f9aec4a4fbfe6bfe0abb46ed0d37571))
+* **descriptions:** fix descriptions fomart error ([#3015](https://github.com/ant-design/pro-components/issues/3015)) ([beb6ce2](https://github.com/ant-design/pro-components/commit/beb6ce2881f94862663051bf597c4a035646729a))
+* **descriptions:** fix descriptions if is null ([28df05e](https://github.com/ant-design/pro-components/commit/28df05e12d3e534f1c118547a1b0a793c40d85c1))
+* **descriptions:** fix descriptions item set style error ([#3860](https://github.com/ant-design/pro-components/issues/3860)) ([27659b3](https://github.com/ant-design/pro-components/commit/27659b3b81d3eba3e8241ca4e05c0caed8464e1a))
+* **descriptions:** fix ellipsis no work error ([e3007a4](https://github.com/ant-design/pro-components/commit/e3007a438588140cfb7b9c492eed9186abdeef04))
+* **descriptions:** fix fetch error no retry fetch error ([9158e71](https://github.com/ant-design/pro-components/commit/9158e71787f0c4b5bfe2d8656af6719c2ea6943d))
+* **descriptions:** fix items=null throw error ([#1659](https://github.com/ant-design/pro-components/issues/1659)) ([5f2f845](https://github.com/ant-design/pro-components/commit/5f2f8457b60ea5700e597a839e1c3db8819dbbd5))
+* **descriptions:** Fix the problem of remounting every time you refresh ([#2815](https://github.com/ant-design/pro-components/issues/2815)) ([78df6fa](https://github.com/ant-design/pro-components/commit/78df6faadce48f07aafaa4d319fdca43b32ec2d1))
+* **descriptions:** fix value and onChange no work error ([#1297](https://github.com/ant-design/pro-components/issues/1297)) ([18c0488](https://github.com/ant-design/pro-components/commit/18c04884e1731cc0ee199062bd6486a5722ecc57))
+* **descriptions:** if label is null, no render lable ([#2292](https://github.com/ant-design/pro-components/issues/2292)) ([989f26f](https://github.com/ant-design/pro-components/commit/989f26f24552800824959772cba7e4dcfc5e6c2b))
+* **descriptions:** missing dependency use-json-comparison ([#996](https://github.com/ant-design/pro-components/issues/996)) ([a181f48](https://github.com/ant-design/pro-components/commit/a181f4857436b48d4475c427809dde9e0d641ef5))
+* **descriptions:** RequestData 类型优化 ([#3448](https://github.com/ant-design/pro-components/issues/3448)) ([d4253e0](https://github.com/ant-design/pro-components/commit/d4253e0efb330e06157f9739c638fe56722ad9eb))
+* **descriptions:** support ErrorBoundary ([#1541](https://github.com/ant-design/pro-components/issues/1541)) ([15a1601](https://github.com/ant-design/pro-components/commit/15a1601e2f553ab97aae8133f8b6b924698b42ff))
+* **descriptions:** unuse protable ([#4062](https://github.com/ant-design/pro-components/issues/4062)) ([04d6a6c](https://github.com/ant-design/pro-components/commit/04d6a6c94aaf1597ec5bbdb9135fdacbdca9640a))
+* **descriptions:** 修复当 dataIndex 设置为 keypath 数组时 ProDescriptions 更新异常问题 ([#4615](https://github.com/ant-design/pro-components/issues/4615)) ([b45b2f5](https://github.com/ant-design/pro-components/commit/b45b2f5cb21226b45742223c9756083437cd6455))
+* **Descriptions:** fix Descriptions reset will set value ([#2732](https://github.com/ant-design/pro-components/issues/2732)) ([e36a35d](https://github.com/ant-design/pro-components/commit/e36a35d98111329a575c8316022637b9a4c5959c))
+* **Descriptions:** fix ellipsis type error ([d051be5](https://github.com/ant-design/pro-components/commit/d051be53c40b49cffe7531bd622003dfeda60b10))
+* **Descriptions:** fix proFieldKey is same error ([#2729](https://github.com/ant-design/pro-components/issues/2729)) ([be501ec](https://github.com/ant-design/pro-components/commit/be501ece15d04a9680fb08bd036e48587857dd9c))
+* **form:** fix moneySymbol no work error ([#2539](https://github.com/ant-design/pro-components/issues/2539)) ([a0bd582](https://github.com/ant-design/pro-components/commit/a0bd5821f00f61af8265a5ae6d1fc53f8d2ec8c5))
+* **form:** FormList add no set key warning ([b677fef](https://github.com/ant-design/pro-components/commit/b677fef0f3b63448b1c29f0a167eef019b4522ed))
+* **layout:** fix menu item icon style error ([#6745](https://github.com/ant-design/pro-components/issues/6745)) ([87f9656](https://github.com/ant-design/pro-components/commit/87f965682e81d9ce166d140dd418a37a6020abcf))
+* fix doc link empty ([#6190](https://github.com/ant-design/pro-components/issues/6190)) ([2a5b916](https://github.com/ant-design/pro-components/commit/2a5b91639a68ade18b7ed93bc7b5c074e47a6842))
+* **field:** timePicker组件用moment解析时间不填入format是会直接Invalid date ([#3745](https://github.com/ant-design/pro-components/issues/3745)) ([31fc899](https://github.com/ant-design/pro-components/commit/31fc8993aa5486281c76691df41ddb80d827074a))
+* **form:** fix proform.item no support QueryFilter error ([#4011](https://github.com/ant-design/pro-components/issues/4011)) ([5eff600](https://github.com/ant-design/pro-components/commit/5eff600f580d99452f9e1a84b7c36c315e55804f))
+* **form:** if valueType need request, note need request ([#3575](https://github.com/ant-design/pro-components/issues/3575)) ([41bb815](https://github.com/ant-design/pro-components/commit/41bb81540408659256da329fe0eb02e5c1583ea5))
+* **form:** support moneySymbol=undefined ([#2579](https://github.com/ant-design/pro-components/issues/2579)) ([029482d](https://github.com/ant-design/pro-components/commit/029482d557c8de3cb761af59560aa5e7a9166082))
+* **form:** switch add default props ([#2629](https://github.com/ant-design/pro-components/issues/2629)) ([7d6ce1f](https://github.com/ant-design/pro-components/commit/7d6ce1f60584d79ae25a157dca0db2e8e1dbb7da))
+* **form:** 解决 moneySymbol 设置为 false 时金额格式化异常问题 ([#6012](https://github.com/ant-design/pro-components/issues/6012)) ([7f9001b](https://github.com/ant-design/pro-components/commit/7f9001b94be054a8766d0a954f64d84fd7e646a3))
+* **form:** 金额格式化支持负数形式展示 ([#6080](https://github.com/ant-design/pro-components/issues/6080)) ([b0b153b](https://github.com/ant-design/pro-components/commit/b0b153b7ddf651e99b2ab65faf8288e7ec2831e2))
+* [#5273](https://github.com/ant-design/pro-components/issues/5273) for all components ([#5314](https://github.com/ant-design/pro-components/issues/5314)) ([d25e87c](https://github.com/ant-design/pro-components/commit/d25e87c68db8e3c8d120ffc4cc7cd95e33ce6c24))
+* antd themes less file path ([#4436](https://github.com/ant-design/pro-components/issues/4436)) ([a6b66b4](https://github.com/ant-design/pro-components/commit/a6b66b4968e78a9c8175d17d2fe5a922cf70630f))
+* **form:** support fieldProps.format ([#2735](https://github.com/ant-design/pro-components/issues/2735)) ([13bebc6](https://github.com/ant-design/pro-components/commit/13bebc6181e4d6a9b54ca1e8d443c927e0d5559d))
+* **table:** fix editabletable initialValue alaway rewirte ([#1834](https://github.com/ant-design/pro-components/issues/1834)) ([b86b7e8](https://github.com/ant-design/pro-components/commit/b86b7e8a2f1bbb018863ef9a50bac8e82ce9a8f8))
+* **table:** fix table validateFields no work error ([#4058](https://github.com/ant-design/pro-components/issues/4058)) ([0291e08](https://github.com/ant-design/pro-components/commit/0291e085a17d57d654b698695e9a2c31915a07e0))
+* **table:** fix the problem that the table rendering is not timely ([#1024](https://github.com/ant-design/pro-components/issues/1024)) ([19d3af5](https://github.com/ant-design/pro-components/commit/19d3af58e692dbfa5a4b32644afe9672ba5719cf))
+* **table:** remove unuse code ([#1243](https://github.com/ant-design/pro-components/issues/1243)) ([922496c](https://github.com/ant-design/pro-components/commit/922496cf7dafeb024a8c2cb742c9c4d60f6970eb))
+* **table:** tabs and menu add keys ([#2733](https://github.com/ant-design/pro-components/issues/2733)) ([310bc90](https://github.com/ant-design/pro-components/commit/310bc90b62e74a643bb50e7207185c388997c318))
+* ProCard do not export self as sub component ([#2214](https://github.com/ant-design/pro-components/issues/2214)) ([bed96d1](https://github.com/ant-design/pro-components/commit/bed96d1569b21b82e46608522ac356b635692dde))
+
+
+### Features
+
+* **components:** add @ant-design/pro-component ([#5258](https://github.com/ant-design/pro-components/issues/5258)) ([a524391](https://github.com/ant-design/pro-components/commit/a524391aca28b09265097bcbf555fd1261e1e757))
+* **components:** support antd@5.4.0 ([#6730](https://github.com/ant-design/pro-components/issues/6730)) ([1ac506f](https://github.com/ant-design/pro-components/commit/1ac506f8e46a30089437cdfe58a5f96447c39f7a))
+* **desciption:** support editable ([#1273](https://github.com/ant-design/pro-components/issues/1273)) ([bc8821b](https://github.com/ant-design/pro-components/commit/bc8821bce05faadaa7d9337ae2287131c41791e0))
+* **descriptions:** descriptions Columns support order ([#1763](https://github.com/ant-design/pro-components/issues/1763)) ([b004d9d](https://github.com/ant-design/pro-components/commit/b004d9d41fde2e0a75bcbe23e2ffcf8f70f837cb))
+* **descriptions:** descriptions support loading and onLoadinChange ([#1344](https://github.com/ant-design/pro-components/issues/1344)) ([b5afe9e](https://github.com/ant-design/pro-components/commit/b5afe9e6fd9dc1b06ef0e76b63aa6c7ab05bc3eb))
+* **field:** text use CompositionInput ([#1499](https://github.com/ant-design/pro-components/issues/1499)) ([4f26efb](https://github.com/ant-design/pro-components/commit/4f26efb81a7592868e6e863ca6fbb59cb6918016))
+* **form:** support antd next ([#4038](https://github.com/ant-design/pro-components/issues/4038)) ([96a64c3](https://github.com/ant-design/pro-components/commit/96a64c35d0fc6a359a4ff3d36b96f510f4580c63)), closes [#3770](https://github.com/ant-design/pro-components/issues/3770) [#3863](https://github.com/ant-design/pro-components/issues/3863)
+* **form:** support more tooltip props ([#2932](https://github.com/ant-design/pro-components/issues/2932)) ([bedd7eb](https://github.com/ant-design/pro-components/commit/bedd7ebb0784da8fbb9c4998651f39f5efff5354))
+* **form:** support Pro.useFormInstance ([d53eccc](https://github.com/ant-design/pro-components/commit/d53eccca812e477c68f59243b227e3141526ce69))
+* **form:** support SchemaForm ([#2040](https://github.com/ant-design/pro-components/issues/2040)) ([423f476](https://github.com/ant-design/pro-components/commit/423f4761eecde5a62c4a8476441aa0484ff94711))
+* **layout:** add ProHelp components ([#6654](https://github.com/ant-design/pro-components/issues/6654)) ([b1a175c](https://github.com/ant-design/pro-components/commit/b1a175c9ecbdf24a26f1cf34e10a92da05ab2b9c)), closes [#6671](https://github.com/ant-design/pro-components/issues/6671) [#6676](https://github.com/ant-design/pro-components/issues/6676)
+* **table:** editable support form config ([#1879](https://github.com/ant-design/pro-components/issues/1879)) ([2fd7dff](https://github.com/ant-design/pro-components/commit/2fd7dff2c163fc9f5cd7f98739130ba4f7b4a9ee))
+* **table:** EditableTable support max length ([#1286](https://github.com/ant-design/pro-components/issues/1286)) ([dac9844](https://github.com/ant-design/pro-components/commit/dac9844e42ed19d5a539b6b0eae42ea35d6f958d))
+* **table:** onsave support origin data and no merge record ([#2949](https://github.com/ant-design/pro-components/issues/2949)) ([8c9d021](https://github.com/ant-design/pro-components/commit/8c9d0218c2d8927bae4fb0bad9a911a3b905d580))
+* **table:** support children column add function ([#3273](https://github.com/ant-design/pro-components/issues/3273)) ([2396e03](https://github.com/ant-design/pro-components/commit/2396e031d771ae818445d386e573898708b64f07))
+* **table:** support customization valueType ([#1456](https://github.com/ant-design/pro-components/issues/1456)) ([cbce5ba](https://github.com/ant-design/pro-components/commit/cbce5baf9ae456a1ab32a748e7ac86ee592b4344))
+* **table:** use [@dnd-kit](https://github.com/dnd-kit) ([#7131](https://github.com/ant-design/pro-components/issues/7131)) ([26b6aa6](https://github.com/ant-design/pro-components/commit/26b6aa611a0c5d88232cda88ca7cec893ee2160b))
+
+
+
+
+
 ## [2.3.5](https://github.com/ant-design/pro-components/compare/@plasmicapp/pro-descriptions@2.3.4...@plasmicapp/pro-descriptions@2.3.5) (2023-06-02)
 
 **Note:** Version bump only for package @plasmicapp/pro-descriptions
