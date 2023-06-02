@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.6.0 (2023-06-02)
+
+
+### Bug Fixes
+
+* **components:** add antd version dependencies ([aa5fd10](https://github.com/ant-design/pro-components/commit/aa5fd107e9d18a7493af1c88f8d4fac955a815db))
+* **components:** src alway use es path ([4a13142](https://github.com/ant-design/pro-components/commit/4a1314225c08a60c5cef9d51f061cdf15a69ca13))
+* **form:** ProFormCheckBox support readonly lable ([ea574c4](https://github.com/ant-design/pro-components/commit/ea574c4d0206f70956a0a2009ba28722716a2ae3))
+* **layout:** fix colorBgMenuItemHover no work error ([3bfa45a](https://github.com/ant-design/pro-components/commit/3bfa45ad054d22e5ea2dfcf405e7a5279e8a4d39))
+
+
+### Features
+
+* **components:** add @ant-design/pro-component ([#5258](https://github.com/ant-design/pro-components/issues/5258)) ([a524391](https://github.com/ant-design/pro-components/commit/a524391aca28b09265097bcbf555fd1261e1e757))
+* **table:** use [@dnd-kit](https://github.com/dnd-kit) ([#7131](https://github.com/ant-design/pro-components/issues/7131)) ([26b6aa6](https://github.com/ant-design/pro-components/commit/26b6aa611a0c5d88232cda88ca7cec893ee2160b))
+
+
+
+
+
 ## [2.5.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-components@2.5.4...@ant-design/pro-components@2.5.5) (2023-06-02)
 
 **Note:** Version bump only for package @ant-design/pro-components
